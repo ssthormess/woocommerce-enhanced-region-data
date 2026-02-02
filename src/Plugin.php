@@ -7,7 +7,7 @@ if (!defined('ABSPATH')) {
 }
 
 class Plugin {
-    public const TEXT_DOMAIN = 'woocommerce-enhanced-regions';
+    public const TEXT_DOMAIN = 'enhanced-regions';
     private string $plugin_file;
     private string $regions_dir;
 

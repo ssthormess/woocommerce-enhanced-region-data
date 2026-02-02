@@ -1,8 +1,8 @@
 <?php
 
 return array (
-  'MP-N' => __('Northern Islands', 'woocommerce-enhanced-regions'),
-  'MP-R' => __('Rota', 'woocommerce-enhanced-regions'),
-  'MP-S' => __('Saipan', 'woocommerce-enhanced-regions'),
-  'MP-T' => __('Tinian', 'woocommerce-enhanced-regions'),
+  'MP-N' => __('Northern Islands', 'enhanced-regions'),
+  'MP-R' => __('Rota', 'enhanced-regions'),
+  'MP-S' => __('Saipan', 'enhanced-regions'),
+  'MP-T' => __('Tinian', 'enhanced-regions'),
 );

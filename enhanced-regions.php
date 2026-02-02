@@ -2,11 +2,11 @@
 /**
  * Plugin Name: Enhanced Regions
  * Description: Populates missing region data for WooCommerce from individual country files in regions directory.
- * Version: 1.0.2
+ * Version: 1.0.3
  * URL: https://github.com/ssthormess/enhanced-regions
  * Author: Simon Sthormes
  * Author URL: https://github.com/ssthormess
- * Text Domain: woocommerce-enhanced-regions
+ * Text Domain: enhanced-regions
  * Domain Path: /languages
  */
 

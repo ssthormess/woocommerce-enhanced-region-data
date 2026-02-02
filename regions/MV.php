@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'MV-MLE' => __('Malé', 'woocommerce-enhanced-regions'),
-  'MV-01' => __('Addu City', 'woocommerce-enhanced-regions'),
-  'MV-03' => __('Fuvahmulah', 'woocommerce-enhanced-regions'),
+  'MV-MLE' => __('Malé', 'enhanced-regions'),
+  'MV-01' => __('Addu City', 'enhanced-regions'),
+  'MV-03' => __('Fuvahmulah', 'enhanced-regions'),
 );

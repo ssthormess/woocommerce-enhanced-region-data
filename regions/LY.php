@@ -1,10 +1,10 @@
 <?php
 
 return array (
-  'LY-TR' => __('Tripoli', 'woocommerce-enhanced-regions'),
-  'LY-BA' => __('Benghazi', 'woocommerce-enhanced-regions'),
-  'LY-MI' => __('Misrata', 'woocommerce-enhanced-regions'),
-  'LY-SR' => __('Sirte', 'woocommerce-enhanced-regions'),
-  'LY-SB' => __('Sabha', 'woocommerce-enhanced-regions'),
-  'LY-TB' => __('Tobruk', 'woocommerce-enhanced-regions'),
+  'LY-TR' => __('Tripoli', 'enhanced-regions'),
+  'LY-BA' => __('Benghazi', 'enhanced-regions'),
+  'LY-MI' => __('Misrata', 'enhanced-regions'),
+  'LY-SR' => __('Sirte', 'enhanced-regions'),
+  'LY-SB' => __('Sabha', 'enhanced-regions'),
+  'LY-TB' => __('Tobruk', 'enhanced-regions'),
 );

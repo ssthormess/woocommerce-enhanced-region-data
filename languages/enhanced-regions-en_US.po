@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.8.0; wp-6.9; php-8.5.1\n"
-"X-Domain: woocommerce-enhanced-regions"
+"X-Domain: enhanced-regions"
 
 #: regions/WS.php:4
 msgid "A'ana"

@@ -20,7 +20,7 @@ It works by checking if a selected country has an empty state list in WooCommerc
 
 ## Installation
 
-1.  Upload the `woocommerce-enhanced-regions` folder to the `/wp-content/plugins/` directory (or `web/app/plugins` in Bedrock).
+1.  Upload the `enhanced-regions` folder to the `/wp-content/plugins/` directory (or `web/app/plugins` in Bedrock).
 2.  Activate the plugin through the 'Plugins' menu in WordPress.
 3.  Ensure WooCommerce is installed and active.
 

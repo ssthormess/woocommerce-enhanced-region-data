@@ -1,16 +1,16 @@
 <?php
 
 return array (
-  'MG-T' => __('Antananarivo', 'woocommerce-enhanced-regions'),
-  'MG-D' => __('Antsiranana', 'woocommerce-enhanced-regions'),
-  'MG-F' => __('Fianarantsoa', 'woocommerce-enhanced-regions'),
-  'MG-M' => __('Mahajanga', 'woocommerce-enhanced-regions'),
-  'MG-A' => __('Toamasina', 'woocommerce-enhanced-regions'),
-  'MG-U' => __('Toliara', 'woocommerce-enhanced-regions'),
-  'MG-ALA' => __('Alaotra-Mangoro', 'woocommerce-enhanced-regions'),
-  'MG-ANA' => __('Analamanga', 'woocommerce-enhanced-regions'),
-  'MG-VAK' => __('Vakinankaratra', 'woocommerce-enhanced-regions'),
-  'MG-SAV' => __('Sava', 'woocommerce-enhanced-regions'),
-  'MG-DIA' => __('Diana', 'woocommerce-enhanced-regions'),
-  'MG-ATS' => __('Atsinanana', 'woocommerce-enhanced-regions'),
+  'MG-T' => __('Antananarivo', 'enhanced-regions'),
+  'MG-D' => __('Antsiranana', 'enhanced-regions'),
+  'MG-F' => __('Fianarantsoa', 'enhanced-regions'),
+  'MG-M' => __('Mahajanga', 'enhanced-regions'),
+  'MG-A' => __('Toamasina', 'enhanced-regions'),
+  'MG-U' => __('Toliara', 'enhanced-regions'),
+  'MG-ALA' => __('Alaotra-Mangoro', 'enhanced-regions'),
+  'MG-ANA' => __('Analamanga', 'enhanced-regions'),
+  'MG-VAK' => __('Vakinankaratra', 'enhanced-regions'),
+  'MG-SAV' => __('Sava', 'enhanced-regions'),
+  'MG-DIA' => __('Diana', 'enhanced-regions'),
+  'MG-ATS' => __('Atsinanana', 'enhanced-regions'),
 );

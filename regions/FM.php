@@ -1,8 +1,8 @@
 <?php
 
 return array (
-  'FM-TRK' => __('Chuuk (Truk)', 'woocommerce-enhanced-regions'),
-  'FM-KSA' => __('Kosrae', 'woocommerce-enhanced-regions'),
-  'FM-PNI' => __('Pohnpei', 'woocommerce-enhanced-regions'),
-  'FM-YAP' => __('Yap', 'woocommerce-enhanced-regions'),
+  'FM-TRK' => __('Chuuk (Truk)', 'enhanced-regions'),
+  'FM-KSA' => __('Kosrae', 'enhanced-regions'),
+  'FM-PNI' => __('Pohnpei', 'enhanced-regions'),
+  'FM-YAP' => __('Yap', 'enhanced-regions'),
 );
