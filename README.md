@@ -6,6 +6,8 @@
 **Stable tag:** 1.0.0
 **License:** GPLv2 or later
 
+Add support for missing regions, states, and provinces for 140+ countries in WooCommerce.
+
 ## Description
 
 This plugin enhances WooCommerce by adding missing states, provinces, and regions for countries that default WooCommerce installations do not support.
