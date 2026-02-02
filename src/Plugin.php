@@ -17,17 +17,11 @@ class Plugin {
     }
 
     public function init(): void {
-        add_action('plugins_loaded', [$this, 'load_textdomain']);
+        // Text domain loading is handled automatically by WordPress
         add_action('plugins_loaded', [$this, 'register_hooks']);
     }
 
-    public function load_textdomain(): void {
-        load_plugin_textdomain(
-            self::TEXT_DOMAIN,
-            false,
-            dirname(plugin_basename($this->plugin_file)) . '/languages'
-        );
-    }
+
 
     public function register_hooks(): void {
         if ($this->is_woocommerce_active()) {
