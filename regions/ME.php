@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'ME-01' => __('Andrijevica', 'enhanced-region-data'),
+  'ME-02' => __('Bar', 'enhanced-region-data'),
+  'ME-03' => __('Berane', 'enhanced-region-data'),
+  'ME-04' => __('Bijelo Polje', 'enhanced-region-data'),
+  'ME-05' => __('Budva', 'enhanced-region-data'),
+  'ME-06' => __('Cetinje', 'enhanced-region-data'),
+  'ME-07' => __('Danilovgrad', 'enhanced-region-data'),
+  'ME-08' => __('Herceg Novi', 'enhanced-region-data'),
+  'ME-09' => __('Kolašin', 'enhanced-region-data'),
+  'ME-10' => __('Kotor', 'enhanced-region-data'),
+  'ME-11' => __('Mojkovac', 'enhanced-region-data'),
+  'ME-12' => __('Nikšić', 'enhanced-region-data'),
+  'ME-13' => __('Plav', 'enhanced-region-data'),
+  'ME-14' => __('Pljevlja', 'enhanced-region-data'),
+  'ME-15' => __('Plužine', 'enhanced-region-data'),
+  'ME-16' => __('Podgorica', 'enhanced-region-data'),
+  'ME-17' => __('Rožaje', 'enhanced-region-data'),
+  'ME-18' => __('Šavnik', 'enhanced-region-data'),
+  'ME-19' => __('Tivat', 'enhanced-region-data'),
+  'ME-20' => __('Ulcinj', 'enhanced-region-data'),
+  'ME-21' => __('Žabljak', 'enhanced-region-data'),
+);

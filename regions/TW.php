@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'TW-TPE' => __('Taipei City', 'enhanced-region-data'),
+  'TW-KHH' => __('Kaohsiung City', 'enhanced-region-data'),
+  'TW-NWT' => __('New Taipei City', 'enhanced-region-data'),
+  'TW-TXG' => __('Taichung City', 'enhanced-region-data'),
+  'TW-TNN' => __('Tainan City', 'enhanced-region-data'),
+  'TW-TAO' => __('Taoyuan City', 'enhanced-region-data'),
+  'TW-ILA' => __('Yilan County', 'enhanced-region-data'),
+  'TW-HUA' => __('Hualien County', 'enhanced-region-data'),
+  'TW-KIN' => __('Kinmen County', 'enhanced-region-data'),
+  'TW-NAN' => __('Nantou County', 'enhanced-region-data'),
+  'TW-PEN' => __('Penghu County', 'enhanced-region-data'),
+  'TW-PIF' => __('Pingtung County', 'enhanced-region-data'),
+  'TW-TTT' => __('Taitung County', 'enhanced-region-data'),
+  'TW-MIA' => __('Miaoli County', 'enhanced-region-data'),
+  'TW-HSQ' => __('Hsinchu County', 'enhanced-region-data'),
+  'TW-CYQ' => __('Chiayi County', 'enhanced-region-data'),
+  'TW-YUN' => __('Yunlin County', 'enhanced-region-data'),
+  'TW-CHA' => __('Changhua County', 'enhanced-region-data'),
+  'TW-KEE' => __('Keelung City', 'enhanced-region-data'),
+  'TW-HSZ' => __('Hsinchu City', 'enhanced-region-data'),
+  'TW-CYI' => __('Chiayi City', 'enhanced-region-data'),
+);

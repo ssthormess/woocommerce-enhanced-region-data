@@ -1,0 +1,6670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enhanced Region Data for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-18 13:04+0000\n"
+"PO-Revision-Date: 2026-01-18 13:05+0000\n"
+"Last-Translator: FollowersYA.com\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-8.5.1\n"
+"X-Domain: enhanced-region-data"
+
+#: regions/WS.php:4
+msgid "A'ana"
+msgstr ""
+
+#: regions/BS.php:6
+msgid "Abaco"
+msgstr ""
+
+#: regions/CI.php:4
+msgid "Abidjan"
+msgstr ""
+
+#: regions/GE.php:4
+msgid "Abkhazia"
+msgstr ""
+
+#: regions/AZ.php:9
+msgid "Absheron"
+msgstr ""
+
+#: regions/AE.php:4
+msgid "Abu Dhabi"
+msgstr ""
+
+#: regions/YE.php:9
+msgid "Abyan"
+msgstr ""
+
+#: regions/SM.php:4
+msgid "Acquaviva"
+msgstr ""
+
+#: regions/OM.php:8
+msgid "Ad Dakhiliyah"
+msgstr ""
+
+#: regions/OM.php:11
+msgid "Ad Dhahirah"
+msgstr ""
+
+#: regions/CM.php:9
+msgid "Adamaoua"
+msgstr ""
+
+#: regions/ET.php:4
+msgid "Addis Ababa"
+msgstr ""
+
+#: regions/MV.php:5
+msgid "Addu City"
+msgstr ""
+
+#: regions/YE.php:5
+msgid "Aden"
+msgstr ""
+
+#: regions/GE.php:5
+msgid "Adjara"
+msgstr ""
+
+#: regions/MR.php:6
+msgid "Adrar"
+msgstr ""
+
+#: regions/RU.php:6
+msgid "Adygea"
+msgstr ""
+
+#: regions/MK.php:4
+msgid "Aerodrom"
+msgstr ""
+
+#: regions/ET.php:5
+msgid "Afar"
+msgstr ""
+
+#: regions/NE.php:5
+msgid "Agadez"
+msgstr ""
+
+#: regions/MU.php:4
+msgid "Agaléga"
+msgstr ""
+
+#: regions/AZ.php:11
+msgid "Agdam"
+msgstr ""
+
+#: regions/AZ.php:12
+msgid "Agdash"
+msgstr ""
+
+#: regions/NO.php:4
+msgid "Agder"
+msgstr ""
+
+#: regions/AZ.php:10
+msgid "Agjabadi"
+msgstr ""
+
+#: regions/LV.php:4
+msgid "Aglonas novads"
+msgstr ""
+
+#: regions/AZ.php:13
+msgid "Agstafa"
+msgstr ""
+
+#: regions/AZ.php:14
+msgid "Agsu"
+msgstr ""
+
+#: regions/TM.php:4
+msgid "Ahal"
+msgstr ""
+
+#: regions/FI.php:4
+msgid "Ahvenanmaa"
+msgstr ""
+
+#: regions/WS.php:5
+msgid "Aiga-i-le-Tai"
+msgstr ""
+
+#: regions/TL.php:4
+msgid "Aileu"
+msgstr ""
+
+#: regions/MH.php:5
+msgid "Ailinglaplap"
+msgstr ""
+
+#: regions/MH.php:4
+msgid "Ailuk"
+msgstr ""
+
+#: regions/PW.php:4
+msgid "Aimeliik"
+msgstr ""
+
+#: regions/TL.php:5
+msgid "Ainaro"
+msgstr ""
+
+#: regions/PW.php:5
+msgid "Airai"
+msgstr ""
+
+#: regions/CK.php:5
+msgid "Aitutaki"
+msgstr ""
+
+#: regions/NR.php:4
+msgid "Aiwo"
+msgstr ""
+
+#: regions/LV.php:5
+msgid "Aizkraukles novads"
+msgstr ""
+
+#: regions/LV.php:6
+msgid "Aizputes novads"
+msgstr ""
+
+#: regions/JO.php:14
+msgid "Ajloun"
+msgstr ""
+
+#: regions/AE.php:7
+msgid "Ajman"
+msgstr ""
+
+#: regions/LB.php:4
+msgid "Akkar"
+msgstr ""
+
+#: regions/KZ.php:7
+msgid "Akmola"
+msgstr ""
+
+#: regions/LV.php:7
+msgid "Aknīstes novads"
+msgstr ""
+
+#: regions/KZ.php:8
+msgid "Aktobe"
+msgstr ""
+
+#: regions/KW.php:4
+msgid "Al Ahmadi"
+msgstr ""
+
+#: regions/IQ.php:4
+msgid "Al Anbar"
+msgstr ""
+
+#: regions/KW.php:7
+msgid "Al Asimah"
+msgstr ""
+
+#: regions/SA.php:15
+msgid "Al Bahah"
+msgstr ""
+
+#: regions/OM.php:9
+msgid "Al Batinah North"
+msgstr ""
+
+#: regions/OM.php:10
+msgid "Al Batinah South"
+msgstr ""
+
+#: regions/OM.php:7
+msgid "Al Buraimi"
+msgstr ""
+
+#: regions/QA.php:9
+msgid "Al Daayen"
+msgstr ""
+
+#: regions/KW.php:5
+msgid "Al Farwaniyah"
+msgstr ""
+
+#: regions/KW.php:6
+msgid "Al Jahra"
+msgstr ""
+
+#: regions/QA.php:7
+msgid "Al Khor"
+msgstr ""
+
+#: regions/IQ.php:6
+msgid "Al Muthanna"
+msgstr ""
+
+#: regions/SD.php:8
+msgid "Al Qadarif"
+msgstr ""
+
+#: regions/QA.php:5
+msgid "Al Rayyan"
+msgstr ""
+
+#: regions/QA.php:6
+msgid "Al Shamal"
+msgstr ""
+
+#: regions/QA.php:8
+msgid "Al Wakrah"
+msgstr ""
+
+#: regions/OM.php:14
+msgid "Al Wusta"
+msgstr ""
+
+#: regions/SY.php:11
+msgid "Al-Hasakah"
+msgstr ""
+
+#: regions/SA.php:16
+msgid "Al-Jawf"
+msgstr ""
+
+#: regions/SA.php:7
+msgid "Al-Qassim"
+msgstr ""
+
+#: regions/IQ.php:7
+msgid "Al-Qādisiyyah"
+msgstr ""
+
+#: regions/QA.php:11
+msgid "Al-Shahaniya"
+msgstr ""
+
+#: regions/MG.php:10
+msgid "Alaotra-Mangoro"
+msgstr ""
+
+#: regions/SY.php:5
+msgid "Aleppo"
+msgstr ""
+
+#: regions/DJ.php:5
+msgid "Ali Sabieh"
+msgstr ""
+
+#: regions/KZ.php:4
+msgid "Almaty"
+msgstr ""
+
+#: regions/KZ.php:9
+msgid "Almaty Region"
+msgstr ""
+
+#: regions/NU.php:4
+msgid "Alofi North"
+msgstr ""
+
+#: regions/NU.php:5
+msgid "Alofi South"
+msgstr ""
+
+#: regions/LV.php:8
+msgid "Alojas novads"
+msgstr ""
+
+#: regions/LV.php:9
+msgid "Alsungas novads"
+msgstr ""
+
+#: regions/RU.php:27
+msgid "Altai Krai"
+msgstr ""
+
+#: regions/RU.php:7
+msgid "Altai Republic"
+msgstr ""
+
+#: regions/LT.php:4
+msgid "Alytaus apskritis"
+msgstr ""
+
+#: regions/LV.php:10
+msgid "Alūksnes novads"
+msgstr ""
+
+#: regions/LV.php:11
+msgid "Amatas novads"
+msgstr ""
+
+#: regions/ET.php:6
+msgid "Amhara"
+msgstr ""
+
+#: regions/JO.php:4
+msgid "Amman"
+msgstr ""
+
+#: regions/LK.php:19
+msgid "Ampara"
+msgstr ""
+
+#: regions/RU.php:36
+msgid "Amur Oblast"
+msgstr ""
+
+#: regions/VN.php:36
+msgid "An Giang"
+msgstr ""
+
+#: regions/NR.php:5
+msgid "Anabar"
+msgstr ""
+
+#: regions/MG.php:11
+msgid "Analamanga"
+msgstr ""
+
+#: regions/UZ.php:5
+msgid "Andijan"
+msgstr ""
+
+#: regions/AD.php:10
+msgid "Andorra la Vella"
+msgstr ""
+
+#: regions/ME.php:4
+msgid "Andrijevica"
+msgstr ""
+
+#: regions/BS.php:8
+msgid "Andros"
+msgstr ""
+
+#: regions/NR.php:6
+msgid "Anetan"
+msgstr ""
+
+#: regions/PW.php:6
+msgid "Angaur"
+msgstr ""
+
+#: regions/NR.php:7
+msgid "Anibare"
+msgstr ""
+
+#: regions/KM.php:4
+msgid "Anjouan"
+msgstr ""
+
+#: regions/GQ.php:10
+msgid "Annobón"
+msgstr ""
+
+#: regions/SC.php:4
+msgid "Anse aux Pins"
+msgstr ""
+
+#: regions/SC.php:5
+msgid "Anse Boileau"
+msgstr ""
+
+#: regions/SC.php:6
+msgid "Anse Etoile"
+msgstr ""
+
+#: regions/LC.php:4
+msgid "Anse la Raye"
+msgstr ""
+
+#: regions/SC.php:8
+msgid "Anse Royale"
+msgstr ""
+
+#: regions/ER.php:6
+msgid "Anseba"
+msgstr ""
+
+#: regions/MG.php:4
+msgid "Antananarivo"
+msgstr ""
+
+#: regions/MG.php:5
+msgid "Antsiranana"
+msgstr ""
+
+#: regions/BE.php:4
+msgid "Antwerpen"
+msgstr ""
+
+#: regions/LK.php:23
+msgid "Anuradhapura"
+msgstr ""
+
+#: regions/LV.php:12
+msgid "Apes novads"
+msgstr ""
+
+#: regions/JO.php:15
+msgid "Aqaba"
+msgstr ""
+
+#: regions/AM.php:4
+msgid "Aragatsotn"
+msgstr ""
+
+#: regions/AM.php:5
+msgid "Ararat"
+msgstr ""
+
+#: regions/MK.php:5
+msgid "Aračinovo"
+msgstr ""
+
+#: regions/PR.php:9
+msgid "Arecibo"
+msgstr ""
+
+#: regions/TN.php:5
+msgid "Ariana"
+msgstr ""
+
+#: regions/TT.php:4
+msgid "Arima"
+msgstr ""
+
+#: regions/MN.php:5
+msgid "Arkhangai"
+msgstr ""
+
+#: regions/RU.php:37
+msgid "Arkhangelsk Oblast"
+msgstr ""
+
+#: regions/AM.php:6
+msgid "Armavir"
+msgstr ""
+
+#: regions/MH.php:6
+msgid "Arno"
+msgstr ""
+
+#: regions/DJ.php:6
+msgid "Arta"
+msgstr ""
+
+#: regions/CU.php:6
+msgid "Artemisa"
+msgstr ""
+
+#: regions/HT.php:5
+msgid "Artibonite"
+msgstr ""
+
+#: regions/SY.php:16
+msgid "As-Suwayda"
+msgstr ""
+
+#: regions/OM.php:12
+msgid "Ash Sharqiyah North"
+msgstr ""
+
+#: regions/OM.php:13
+msgid "Ash Sharqiyah South"
+msgstr ""
+
+#: regions/TM.php:9
+msgid "Ashgabat"
+msgstr ""
+
+#: regions/SA.php:9
+msgid "Asir"
+msgstr ""
+
+#: regions/MR.php:7
+msgid "Assaba"
+msgstr ""
+
+#: regions/KZ.php:5
+msgid "Astana"
+msgstr ""
+
+#: regions/AZ.php:15
+msgid "Astara"
+msgstr ""
+
+#: regions/RU.php:38
+msgid "Astrakhan Oblast"
+msgstr ""
+
+#: regions/CK.php:6
+msgid "Atiu"
+msgstr ""
+
+#: regions/MG.php:15
+msgid "Atsinanana"
+msgstr ""
+
+#: regions/WS.php:6
+msgid "Atua"
+msgstr ""
+
+#: regions/KZ.php:10
+msgid "Atyrau"
+msgstr ""
+
+#: regions/SC.php:7
+msgid "Au Cap"
+msgstr ""
+
+#: regions/LV.php:13
+msgid "Auces novads"
+msgstr ""
+
+#: regions/MH.php:7
+msgid "Aur"
+msgstr ""
+
+#: regions/PF.php:8
+msgid "Austral Islands"
+msgstr ""
+
+#: regions/IS.php:10
+msgid "Austurland"
+msgstr ""
+
+#: regions/FR.php:4
+msgid "Auvergne-Rhône-Alpes"
+msgstr ""
+
+#: regions/NU.php:6
+msgid "Avatele"
+msgstr ""
+
+#: regions/PT.php:4
+msgid "Aveiro"
+msgstr ""
+
+#: regions/SO.php:4
+msgid "Awdal"
+msgstr ""
+
+#: regions/MM.php:6
+msgid "Ayeyarwady"
+msgstr ""
+
+#: regions/IM.php:4
+msgid "Ayre"
+msgstr ""
+
+#: regions/PT.php:22
+msgid "Açores"
+msgstr ""
+
+#: regions/VN.php:29
+msgid "Ba Ria - Vung Tau"
+msgstr ""
+
+#: regions/LB.php:5
+msgid "Baalbek-Hermel"
+msgstr ""
+
+#: regions/AZ.php:16
+msgid "Babek"
+msgstr ""
+
+#: regions/IQ.php:15
+msgid "Babylon"
+msgstr ""
+
+#: regions/LV.php:15
+msgid "Babītes novads"
+msgstr ""
+
+#: regions/VN.php:40
+msgid "Bac Lieu"
+msgstr ""
+
+#: regions/AF.php:4
+msgid "Badakhshan"
+msgstr ""
+
+#: regions/LK.php:25
+msgid "Badulla"
+msgstr ""
+
+#: regions/GW.php:5
+msgid "Bafatá"
+msgstr ""
+
+#: regions/IQ.php:14
+msgid "Baghdad"
+msgstr ""
+
+#: regions/AF.php:5
+msgid "Baghlan"
+msgstr ""
+
+#: regions/MM.php:9
+msgid "Bago"
+msgstr ""
+
+#: regions/TD.php:7
+msgid "Bahr el Gazel"
+msgstr ""
+
+#: regions/SC.php:9
+msgid "Baie Lazare"
+msgstr ""
+
+#: regions/SC.php:10
+msgid "Baie Sainte Anne"
+msgstr ""
+
+#: regions/NR.php:8
+msgid "Baiti"
+msgstr ""
+
+#: regions/SO.php:5
+msgid "Bakool"
+msgstr ""
+
+#: regions/AZ.php:4
+msgid "Baku"
+msgstr ""
+
+#: regions/MW.php:5
+msgid "Balaka"
+msgstr ""
+
+#: regions/AZ.php:17
+msgid "Balakan"
+msgstr ""
+
+#: regions/LV.php:16
+msgid "Baldones novads"
+msgstr ""
+
+#: regions/TM.php:5
+msgid "Balkan"
+msgstr ""
+
+#: regions/AF.php:6
+msgid "Balkh"
+msgstr ""
+
+#: regions/JO.php:7
+msgid "Balqa"
+msgstr ""
+
+#: regions/LV.php:17
+msgid "Baltinavas novads"
+msgstr ""
+
+#: regions/LV.php:18
+msgid "Balvu novads"
+msgstr ""
+
+#: regions/ML.php:4
+msgid "Bamako"
+msgstr ""
+
+#: regions/CF.php:4
+msgid "Bamingui-Bangoran"
+msgstr ""
+
+#: regions/AF.php:7
+msgid "Bamyan"
+msgstr ""
+
+#: regions/SO.php:6
+msgid "Banaadir"
+msgstr ""
+
+#: regions/CF.php:20
+msgid "Bangui"
+msgstr ""
+
+#: regions/GM.php:4
+msgid "Banjul"
+msgstr ""
+
+#: regions/SK.php:4
+msgid "Banskobystrický kraj"
+msgstr ""
+
+#: regions/KH.php:5
+msgid "Banteay Meanchey"
+msgstr ""
+
+#: regions/ME.php:5
+msgid "Bar"
+msgstr ""
+
+#: regions/CW.php:5
+msgid "Barber"
+msgstr ""
+
+#: regions/AG.php:10
+msgid "Barbuda"
+msgstr ""
+
+#: regions/AZ.php:18
+msgid "Barda"
+msgstr ""
+
+#: regions/SO.php:7
+msgid "Bari"
+msgstr ""
+
+#: regions/GY.php:4
+msgid "Barima-Waini"
+msgstr ""
+
+#: regions/CI.php:5
+msgid "Bas-Sassandra"
+msgstr ""
+
+#: regions/CD.php:16
+msgid "Bas-Uele"
+msgstr ""
+
+#: regions/RU.php:8
+msgid "Bashkortostan"
+msgstr ""
+
+#: regions/IQ.php:5
+msgid "Basra"
+msgstr ""
+
+#: regions/CF.php:5
+msgid "Basse-Kotto"
+msgstr ""
+
+#: regions/GP.php:4
+msgid "Basse-Terre"
+msgstr ""
+
+#: regions/TD.php:5
+msgid "Batha"
+msgstr ""
+
+#: regions/KG.php:6
+msgid "Batken"
+msgstr ""
+
+#: regions/KH.php:6
+msgid "Battambang"
+msgstr ""
+
+#: regions/LK.php:18
+msgid "Batticaloa"
+msgstr ""
+
+#: regions/TL.php:6
+msgid "Baucau"
+msgstr ""
+
+#: regions/LV.php:19
+msgid "Bauskas novads"
+msgstr ""
+
+#: regions/SO.php:8
+msgid "Bay"
+msgstr ""
+
+#: regions/PR.php:5
+msgid "Bayamón"
+msgstr ""
+
+#: regions/MN.php:7
+msgid "Bayan-Ölgii"
+msgstr ""
+
+#: regions/MN.php:6
+msgid "Bayankhongor"
+msgstr ""
+
+#: regions/SC.php:11
+msgid "Beau Vallon"
+msgstr ""
+
+#: regions/GB.php:8
+msgid "Bedfordshire"
+msgstr ""
+
+#: regions/LB.php:6
+msgid "Beirut"
+msgstr ""
+
+#: regions/PT.php:5
+msgid "Beja"
+msgstr ""
+
+#: regions/SC.php:12
+msgid "Bel Air"
+msgstr ""
+
+#: regions/SC.php:13
+msgid "Bel Ombre"
+msgstr ""
+
+#: regions/BN.php:4
+msgid "Belait"
+msgstr ""
+
+#: regions/RU.php:39
+msgid "Belgorod Oblast"
+msgstr ""
+
+#: regions/BZ.php:4
+msgid "Belize"
+msgstr ""
+
+#: regions/VN.php:32
+msgid "Ben Tre"
+msgstr ""
+
+#: regions/LY.php:5
+msgid "Benghazi"
+msgstr ""
+
+#: regions/ET.php:7
+msgid "Benishangul-Gumuz"
+msgstr ""
+
+#: regions/LB.php:7
+msgid "Beqaa"
+msgstr ""
+
+#: regions/ME.php:6
+msgid "Berane"
+msgstr ""
+
+#: regions/LS.php:7
+msgid "Bere"
+msgstr ""
+
+#: regions/MK.php:6
+msgid "Berovo"
+msgstr ""
+
+#: regions/PS.php:4
+msgid "Bethlehem"
+msgstr ""
+
+#: regions/LV.php:20
+msgid "Beverīnas novads"
+msgstr ""
+
+#: regions/ME.php:7
+msgid "Bijelo Polje"
+msgstr ""
+
+#: regions/AZ.php:19
+msgid "Bilasuvar"
+msgstr ""
+
+#: regions/VN.php:15
+msgid "Binh Dinh"
+msgstr ""
+
+#: regions/VN.php:27
+msgid "Binh Duong"
+msgstr ""
+
+#: regions/VN.php:25
+msgid "Binh Phuoc"
+msgstr ""
+
+#: regions/VN.php:19
+msgid "Binh Thuan"
+msgstr ""
+
+#: regions/GQ.php:4
+msgid "Bioko Norte"
+msgstr ""
+
+#: regions/GQ.php:5
+msgid "Bioko Sur"
+msgstr ""
+
+#: regions/GW.php:6
+msgid "Biombo"
+msgstr ""
+
+#: regions/KG.php:4
+msgid "Bishkek"
+msgstr ""
+
+#: regions/GW.php:4
+msgid "Bissau"
+msgstr ""
+
+#: regions/MK.php:7
+msgid "Bitola"
+msgstr ""
+
+#: regions/TN.php:7
+msgid "Bizerte"
+msgstr ""
+
+#: regions/MU.php:5
+msgid "Black River"
+msgstr ""
+
+#: regions/MW.php:6
+msgid "Blantyre"
+msgstr ""
+
+#: regions/SE.php:4
+msgid "Blekinge"
+msgstr ""
+
+#: regions/CV.php:4
+msgid "Boa Vista"
+msgstr ""
+
+#: regions/TL.php:7
+msgid "Bobonaro"
+msgstr ""
+
+#: regions/KY.php:4
+msgid "Bodden Town"
+msgstr ""
+
+#: regions/NR.php:9
+msgid "Boe"
+msgstr ""
+
+#: regions/MK.php:8
+msgid "Bogdanci"
+msgstr ""
+
+#: regions/MK.php:9
+msgid "Bogovinje"
+msgstr ""
+
+#: regions/GN.php:5
+msgid "Boké"
+msgstr ""
+
+#: regions/GW.php:7
+msgid "Bolama"
+msgstr ""
+
+#: regions/SM.php:5
+msgid "Borgo Maggiore"
+msgstr ""
+
+#: regions/TD.php:8
+msgid "Borkou"
+msgstr ""
+
+#: regions/MK.php:10
+msgid "Bosilovo"
+msgstr ""
+
+#: regions/BF.php:4
+msgid "Boucle du Mouhoun"
+msgstr ""
+
+#: regions/CG.php:6
+msgid "Bouenza"
+msgstr ""
+
+#: regions/PG.php:23
+msgid "Bougainville"
+msgstr ""
+
+#: regions/FR.php:5
+msgid "Bourgogne-Franche-Comté"
+msgstr ""
+
+#: regions/BE.php:5
+msgid "Brabant wallon"
+msgstr ""
+
+#: regions/PT.php:6
+msgid "Braga"
+msgstr ""
+
+#: regions/PT.php:7
+msgid "Bragança"
+msgstr ""
+
+#: regions/MR.php:8
+msgid "Brakna"
+msgstr ""
+
+#: regions/SK.php:5
+msgid "Bratislavský kraj"
+msgstr ""
+
+#: regions/CV.php:5
+msgid "Brava"
+msgstr ""
+
+#: regions/CG.php:4
+msgid "Brazzaville"
+msgstr ""
+
+#: regions/BY.php:5
+msgid "Brest Region"
+msgstr ""
+
+#: regions/FR.php:6
+msgid "Bretagne"
+msgstr ""
+
+#: regions/LV.php:21
+msgid "Brocēnu novads"
+msgstr ""
+
+#: regions/SR.php:12
+msgid "Brokopondo"
+msgstr ""
+
+#: regions/BN.php:5
+msgid "Brunei-Muara"
+msgstr ""
+
+#: regions/BE.php:13
+msgid "Brussels Hoofdstedelijk Gewest"
+msgstr ""
+
+#: regions/MK.php:11
+msgid "Brvenica"
+msgstr ""
+
+#: regions/RU.php:40
+msgid "Bryansk Oblast"
+msgstr ""
+
+#: regions/BA.php:6
+msgid "Brčko distrikt"
+msgstr ""
+
+#: regions/NR.php:10
+msgid "Buada"
+msgstr ""
+
+#: regions/GB.php:9
+msgid "Buckinghamshire"
+msgstr ""
+
+#: regions/ME.php:8
+msgid "Budva"
+msgstr ""
+
+#: regions/BI.php:4
+msgid "Bujumbura Mairie"
+msgstr ""
+
+#: regions/BI.php:5
+msgid "Bujumbura Rural"
+msgstr ""
+
+#: regions/UZ.php:6
+msgid "Bukhara"
+msgstr ""
+
+#: regions/ZW.php:4
+msgid "Bulawayo"
+msgstr ""
+
+#: regions/MN.php:8
+msgid "Bulgan"
+msgstr ""
+
+#: regions/BT.php:4
+msgid "Bumthang"
+msgstr ""
+
+#: regions/AT.php:4
+msgid "Burgenland"
+msgstr ""
+
+#: regions/LV.php:22
+msgid "Burtnieku novads"
+msgstr ""
+
+#: regions/RU.php:9
+msgid "Buryatia"
+msgstr ""
+
+#: regions/KR.php:5
+msgid "Busan"
+msgstr ""
+
+#: regions/MK.php:12
+msgid "Butel"
+msgstr ""
+
+#: regions/LS.php:5
+msgid "Butha-Buthe"
+msgstr ""
+
+#: regions/VN.php:41
+msgid "Ca Mau"
+msgstr ""
+
+#: regions/GW.php:8
+msgid "Cacheu"
+msgstr ""
+
+#: regions/PR.php:6
+msgid "Caguas"
+msgstr ""
+
+#: regions/CU.php:13
+msgid "Camagüey"
+msgstr ""
+
+#: regions/GB.php:10
+msgid "Cambridgeshire"
+msgstr ""
+
+#: regions/VN.php:8
+msgid "Can Tho"
+msgstr ""
+
+#: regions/AD.php:4
+msgid "Canillo"
+msgstr ""
+
+#: regions/ST.php:6
+msgid "Cantagalo"
+msgstr ""
+
+#: regions/LU.php:4
+msgid "Capellen"
+msgstr ""
+
+#: regions/BH.php:4
+msgid "Capital"
+msgstr ""
+
+#: regions/SB.php:13
+msgid "Capital Territory (Honiara)"
+msgstr ""
+
+#: regions/LV.php:23
+msgid "Carnikavas novads"
+msgstr ""
+
+#: regions/SC.php:14
+msgid "Cascade"
+msgstr ""
+
+#: regions/BF.php:5
+msgid "Cascades"
+msgstr ""
+
+#: regions/GG.php:4
+msgid "Castel"
+msgstr ""
+
+#: regions/PT.php:8
+msgid "Castelo Branco"
+msgstr ""
+
+#: regions/LC.php:5
+msgid "Castries"
+msgstr ""
+
+#: regions/ST.php:7
+msgid "Caué"
+msgstr ""
+
+#: regions/GF.php:4
+msgid "Cayenne"
+msgstr ""
+
+#: regions/KY.php:9
+msgid "Cayman Brac"
+msgstr ""
+
+#: regions/BZ.php:5
+msgid "Cayo"
+msgstr ""
+
+#: regions/MK.php:13
+msgid "Centar"
+msgstr ""
+
+#: regions/SB.php:4 regions/BW.php:4 regions/PG.php:5 regions/FJ.php:4
+msgid "Central"
+msgstr ""
+
+#: regions/SS.php:4
+msgid "Central Equatoria"
+msgstr ""
+
+#: regions/MT.php:4
+msgid "Central Region"
+msgstr ""
+
+#: regions/GM.php:6
+msgid "Central River"
+msgstr ""
+
+#: regions/TG.php:6
+msgid "Centrale"
+msgstr ""
+
+#: regions/HT.php:8 regions/BF.php:6 regions/CM.php:4
+msgid "Centre"
+msgstr ""
+
+#: regions/BF.php:7
+msgid "Centre-Est"
+msgstr ""
+
+#: regions/BF.php:8
+msgid "Centre-Nord"
+msgstr ""
+
+#: regions/BF.php:9
+msgid "Centre-Ouest"
+msgstr ""
+
+#: regions/BF.php:10
+msgid "Centre-Sud"
+msgstr ""
+
+#: regions/FR.php:7
+msgid "Centre-Val de Loire"
+msgstr ""
+
+#: regions/GQ.php:7
+msgid "Centro Sur"
+msgstr ""
+
+#: regions/LV.php:25
+msgid "Cesvaines novads"
+msgstr ""
+
+#: regions/ME.php:9
+msgid "Cetinje"
+msgstr ""
+
+#: regions/KP.php:4
+msgid "Chagang"
+msgstr ""
+
+#: regions/TT.php:5
+msgid "Chaguanas"
+msgstr ""
+
+#: regions/TW.php:21
+msgid "Changhua County"
+msgstr ""
+
+#: regions/VC.php:4
+msgid "Charlotte"
+msgstr ""
+
+#: regions/RU.php:10
+msgid "Chechnya"
+msgstr ""
+
+#: regions/RU.php:41
+msgid "Chelyabinsk Oblast"
+msgstr ""
+
+#: regions/GB.php:11
+msgid "Cheshire"
+msgstr ""
+
+#: regions/TW.php:24
+msgid "Chiayi City"
+msgstr ""
+
+#: regions/TW.php:19
+msgid "Chiayi County"
+msgstr ""
+
+#: regions/SM.php:6
+msgid "Chiesanuova"
+msgstr ""
+
+#: regions/MW.php:7
+msgid "Chikwawa"
+msgstr ""
+
+#: regions/MM.php:16
+msgid "Chin"
+msgstr ""
+
+#: regions/MW.php:8
+msgid "Chiradzulu"
+msgstr ""
+
+#: regions/MW.php:9
+msgid "Chitipa"
+msgstr ""
+
+#: regions/BW.php:13
+msgid "Chobe"
+msgstr ""
+
+#: regions/SB.php:5 regions/LC.php:6
+msgid "Choiseul"
+msgstr ""
+
+#: regions/BB.php:4
+msgid "Christ Church"
+msgstr ""
+
+#: regions/BT.php:5
+msgid "Chukha"
+msgstr ""
+
+#: regions/KR.php:14
+msgid "Chungcheongbuk-do"
+msgstr ""
+
+#: regions/KR.php:15
+msgid "Chungcheongnam-do"
+msgstr ""
+
+#: regions/FM.php:4
+msgid "Chuuk (Truk)"
+msgstr ""
+
+#: regions/RU.php:11
+msgid "Chuvashia"
+msgstr ""
+
+#: regions/KG.php:7
+msgid "Chuy"
+msgstr ""
+
+#: regions/LV.php:26
+msgid "Ciblas novads"
+msgstr ""
+
+#: regions/CU.php:12
+msgid "Ciego de Ávila"
+msgstr ""
+
+#: regions/CU.php:9
+msgid "Cienfuegos"
+msgstr ""
+
+#: regions/SM.php:11
+msgid "City of San Marino"
+msgstr ""
+
+#: regions/LU.php:5
+msgid "Clervaux"
+msgstr ""
+
+#: regions/PT.php:9
+msgid "Coimbra"
+msgstr ""
+
+#: regions/LK.php:4
+msgid "Colombo"
+msgstr ""
+
+#: regions/SR.php:9
+msgid "Commewijne"
+msgstr ""
+
+#: regions/CI.php:6
+msgid "Comoé"
+msgstr ""
+
+#: regions/GN.php:4
+msgid "Conakry"
+msgstr ""
+
+#: regions/GB.php:12
+msgid "Cornwall"
+msgstr ""
+
+#: regions/SR.php:7
+msgid "Coronie"
+msgstr ""
+
+#: regions/BZ.php:6
+msgid "Corozal"
+msgstr ""
+
+#: regions/FR.php:8
+msgid "Corse"
+msgstr ""
+
+#: regions/TT.php:6
+msgid "Couva-Tabaquite-Talparo"
+msgstr ""
+
+#: regions/TL.php:8
+msgid "Covalima"
+msgstr ""
+
+#: regions/GB.php:13
+msgid "Cumbria"
+msgstr ""
+
+#: regions/CG.php:7
+msgid "Cuvette"
+msgstr ""
+
+#: regions/CG.php:8
+msgid "Cuvette-Ouest"
+msgstr ""
+
+#: regions/GY.php:5
+msgid "Cuyuni-Mazaruni"
+msgstr ""
+
+#: regions/LV.php:24
+msgid "Cēsu novads"
+msgstr ""
+
+#: regions/VN.php:6
+msgid "Da Nang"
+msgstr ""
+
+#: regions/KR.php:6
+msgid "Daegu"
+msgstr ""
+
+#: regions/KR.php:9
+msgid "Daejeon"
+msgstr ""
+
+#: regions/BT.php:6
+msgid "Dagana"
+msgstr ""
+
+#: regions/LV.php:27
+msgid "Dagdas novads"
+msgstr ""
+
+#: regions/RU.php:12
+msgid "Dagestan"
+msgstr ""
+
+#: regions/VN.php:22
+msgid "Dak Lak"
+msgstr ""
+
+#: regions/VN.php:23
+msgid "Dak Nong"
+msgstr ""
+
+#: regions/SE.php:5
+msgid "Dalarna"
+msgstr ""
+
+#: regions/SY.php:4
+msgid "Damascus"
+msgstr ""
+
+#: regions/ME.php:10
+msgid "Danilovgrad"
+msgstr ""
+
+#: regions/SY.php:15
+msgid "Daraa"
+msgstr ""
+
+#: regions/MN.php:9
+msgid "Darkhan-Uul"
+msgstr ""
+
+#: regions/AZ.php:23
+msgid "Dashkasan"
+msgstr ""
+
+#: regions/TM.php:6
+msgid "Dasoguz"
+msgstr ""
+
+#: regions/LV.php:35
+msgid "Daugavpils"
+msgstr ""
+
+#: regions/LV.php:28
+msgid "Daugavpils novads"
+msgstr ""
+
+#: regions/LC.php:7
+msgid "Dauphin"
+msgstr ""
+
+#: regions/AF.php:8
+msgid "Daykundi"
+msgstr ""
+
+#: regions/ER.php:8
+msgid "Debub"
+msgstr ""
+
+#: regions/ER.php:5
+msgid "Debubawi Keyih Bahri"
+msgstr ""
+
+#: regions/MW.php:10
+msgid "Dedza"
+msgstr ""
+
+#: regions/PS.php:5
+msgid "Deir Al-Balah"
+msgstr ""
+
+#: regions/SY.php:12
+msgid "Deir ez-Zor"
+msgstr ""
+
+#: regions/GY.php:6
+msgid "Demerara-Mahaica"
+msgstr ""
+
+#: regions/CI.php:7
+msgid "Denguélé"
+msgstr ""
+
+#: regions/NR.php:11
+msgid "Denigomodu"
+msgstr ""
+
+#: regions/LC.php:8
+msgid "Dennery"
+msgstr ""
+
+#: regions/GB.php:14
+msgid "Derbyshire"
+msgstr ""
+
+#: regions/GB.php:15
+msgid "Devon"
+msgstr ""
+
+#: regions/BM.php:4
+msgid "Devonshire"
+msgstr ""
+
+#: regions/IQ.php:19
+msgid "Dhi Qar"
+msgstr ""
+
+#: regions/OM.php:5
+msgid "Dhofar"
+msgstr ""
+
+#: regions/MG.php:14
+msgid "Diana"
+msgstr ""
+
+#: regions/TT.php:7
+msgid "Diego Martin"
+msgstr ""
+
+#: regions/LU.php:6
+msgid "Diekirch"
+msgstr ""
+
+#: regions/NE.php:6
+msgid "Diffa"
+msgstr ""
+
+#: regions/DJ.php:7
+msgid "Dikhil"
+msgstr ""
+
+#: regions/TL.php:9
+msgid "Dili"
+msgstr ""
+
+#: regions/ET.php:8
+msgid "Dire Dawa"
+msgstr ""
+
+#: regions/TJ.php:8
+msgid "Districts of Republican Subordination"
+msgstr ""
+
+#: regions/IQ.php:11
+msgid "Diyala"
+msgstr ""
+
+#: regions/DJ.php:4
+msgid "Djibouti"
+msgstr ""
+
+#: regions/LV.php:29
+msgid "Dobeles novads"
+msgstr ""
+
+#: regions/QA.php:4
+msgid "Doha"
+msgstr ""
+
+#: regions/IQ.php:20
+msgid "Dohuk"
+msgstr ""
+
+#: regions/PL.php:4
+msgid "Dolnośląskie"
+msgstr ""
+
+#: regions/SM.php:7
+msgid "Domagnano"
+msgstr ""
+
+#: regions/VN.php:28
+msgid "Dong Nai"
+msgstr ""
+
+#: regions/VN.php:35
+msgid "Dong Thap"
+msgstr ""
+
+#: regions/MN.php:10
+msgid "Dornod"
+msgstr ""
+
+#: regions/MN.php:11
+msgid "Dornogovi"
+msgstr ""
+
+#: regions/GB.php:16
+msgid "Dorset"
+msgstr ""
+
+#: regions/NE.php:7
+msgid "Dosso"
+msgstr ""
+
+#: regions/MW.php:11
+msgid "Dowa"
+msgstr ""
+
+#: regions/NL.php:4
+msgid "Drenthe"
+msgstr ""
+
+#: regions/AE.php:5
+msgid "Dubai"
+msgstr ""
+
+#: regions/LV.php:30
+msgid "Dundagas novads"
+msgstr ""
+
+#: regions/MN.php:12
+msgid "Dundgovi"
+msgstr ""
+
+#: regions/LV.php:31
+msgid "Durbes novads"
+msgstr ""
+
+#: regions/GB.php:17
+msgid "Durham"
+msgstr ""
+
+#: regions/TJ.php:4
+msgid "Dushanbe"
+msgstr ""
+
+#: regions/GY.php:7
+msgid "East Berbice-Corentyne"
+msgstr ""
+
+#: regions/KY.php:5
+msgid "East End"
+msgstr ""
+
+#: regions/KZ.php:11
+msgid "East Kazakhstan"
+msgstr ""
+
+#: regions/PG.php:7
+msgid "East New Britain"
+msgstr ""
+
+#: regions/PG.php:8
+msgid "East Sepik"
+msgstr ""
+
+#: regions/SL.php:5 regions/RW.php:5 regions/FJ.php:5 regions/AS.php:4
+msgid "Eastern"
+msgstr ""
+
+#: regions/SS.php:5
+msgid "Eastern Equatoria"
+msgstr ""
+
+#: regions/PG.php:6
+msgid "Eastern Highlands"
+msgstr ""
+
+#: regions/SA.php:8
+msgid "Eastern Province"
+msgstr ""
+
+#: regions/MH.php:8
+msgid "Ebon"
+msgstr ""
+
+#: regions/LU.php:7
+msgid "Echternach"
+msgstr ""
+
+#: regions/BS.php:9
+msgid "Eleuthera"
+msgstr ""
+
+#: regions/AD.php:5
+msgid "Encamp"
+msgstr ""
+
+#: regions/MH.php:9
+msgid "Enewetak"
+msgstr ""
+
+#: regions/PG.php:9
+msgid "Enga"
+msgstr ""
+
+#: regions/GB.php:4
+msgid "England"
+msgstr ""
+
+#: regions/LV.php:32
+msgid "Engures novads"
+msgstr ""
+
+#: regions/TD.php:9
+msgid "Ennedi-Est"
+msgstr ""
+
+#: regions/TD.php:10
+msgid "Ennedi-Ouest"
+msgstr ""
+
+#: regions/IQ.php:9
+msgid "Erbil"
+msgstr ""
+
+#: regions/TL.php:10
+msgid "Ermera"
+msgstr ""
+
+#: regions/AD.php:9
+msgid "Escaldes-Engordany"
+msgstr ""
+
+#: regions/LU.php:8
+msgid "Esch-sur-Alzette"
+msgstr ""
+
+#: regions/GY.php:8
+msgid "Essequibo Islands-West Demerara"
+msgstr ""
+
+#: regions/GB.php:18
+msgid "Essex"
+msgstr ""
+
+#: regions/BF.php:11 regions/CM.php:10
+msgid "Est"
+msgstr ""
+
+#: regions/GA.php:4
+msgid "Estuaire"
+msgstr ""
+
+#: regions/FI.php:5
+msgid "Etelä-Karjala"
+msgstr ""
+
+#: regions/FI.php:6
+msgid "Etelä-Pohjanmaa"
+msgstr ""
+
+#: regions/FI.php:7
+msgid "Etelä-Savo"
+msgstr ""
+
+#: regions/TO.php:4
+msgid "Eua"
+msgstr ""
+
+#: regions/NR.php:12
+msgid "Ewa"
+msgstr ""
+
+#: regions/CM.php:11
+msgid "Extrême-Nord"
+msgstr ""
+
+#: regions/BS.php:7
+msgid "Exuma"
+msgstr ""
+
+#: regions/FO.php:4
+msgid "Eysturoy"
+msgstr ""
+
+#: regions/WS.php:7
+msgid "Fa'asaleleaga"
+msgstr ""
+
+#: regions/SM.php:8
+msgid "Faetano"
+msgstr ""
+
+#: regions/CY.php:7
+msgid "Famagusta"
+msgstr ""
+
+#: regions/AF.php:9
+msgid "Farah"
+msgstr ""
+
+#: regions/GN.php:9
+msgid "Faranah"
+msgstr ""
+
+#: regions/PT.php:11
+msgid "Faro"
+msgstr ""
+
+#: regions/AF.php:10
+msgid "Faryab"
+msgstr ""
+
+#: regions/BA.php:4
+msgid "Federacija Bosne i Hercegovine"
+msgstr ""
+
+#: regions/UZ.php:7
+msgid "Fergana"
+msgstr ""
+
+#: regions/XK.php:4
+msgid "Ferizaj"
+msgstr ""
+
+#: regions/MG.php:6
+msgid "Fianarantsoa"
+msgstr ""
+
+#: regions/SM.php:9
+msgid "Fiorentino"
+msgstr ""
+
+#: regions/MU.php:6
+msgid "Flacq"
+msgstr ""
+
+#: regions/NL.php:5
+msgid "Flevoland"
+msgstr ""
+
+#: regions/GG.php:5
+msgid "Forest"
+msgstr ""
+
+#: regions/MQ.php:4
+msgid "Fort-de-France"
+msgstr ""
+
+#: regions/NL.php:6
+msgid "Friesland"
+msgstr ""
+
+#: regions/AE.php:10
+msgid "Fujairah"
+msgstr ""
+
+#: regions/MV.php:6
+msgid "Fuvahmulah"
+msgstr ""
+
+#: regions/TN.php:15
+msgid "Gabes"
+msgstr ""
+
+#: regions/GW.php:9
+msgid "Gabú"
+msgstr ""
+
+#: regions/TN.php:14
+msgid "Gafsa"
+msgstr ""
+
+#: regions/WS.php:8
+msgid "Gaga'emauga"
+msgstr ""
+
+#: regions/WS.php:9
+msgid "Gaga'ifomauga"
+msgstr ""
+
+#: regions/SO.php:9
+msgid "Galguduud"
+msgstr ""
+
+#: regions/LK.php:10
+msgid "Galle"
+msgstr ""
+
+#: regions/ET.php:9
+msgid "Gambela"
+msgstr ""
+
+#: regions/LK.php:5
+msgid "Gampaha"
+msgstr ""
+
+#: regions/KR.php:13
+msgid "Gangwon-do"
+msgstr ""
+
+#: regions/AZ.php:5
+msgid "Ganja"
+msgstr ""
+
+#: regions/ML.php:11
+msgid "Gao"
+msgstr ""
+
+#: regions/IM.php:5
+msgid "Garff"
+msgstr ""
+
+#: regions/BT.php:7
+msgid "Gasa"
+msgstr ""
+
+#: regions/ER.php:7
+msgid "Gash-Barka"
+msgstr ""
+
+#: regions/PS.php:6
+msgid "Gaza"
+msgstr ""
+
+#: regions/SO.php:10
+msgid "Gedo"
+msgstr ""
+
+#: regions/AM.php:7
+msgid "Gegharkunik"
+msgstr ""
+
+#: regions/NL.php:7
+msgid "Gelderland"
+msgstr ""
+
+#: regions/KY.php:6
+msgid "George Town"
+msgstr ""
+
+#: regions/SD.php:5
+msgid "Gezira"
+msgstr ""
+
+#: regions/BW.php:5
+msgid "Ghanzi"
+msgstr ""
+
+#: regions/AF.php:11
+msgid "Ghazni"
+msgstr ""
+
+#: regions/AF.php:12
+msgid "Ghor"
+msgstr ""
+
+#: regions/VN.php:21
+msgid "Gia Lai"
+msgstr ""
+
+#: regions/KI.php:4
+msgid "Gilbert Islands"
+msgstr ""
+
+#: regions/BI.php:6
+msgid "Gitega"
+msgstr ""
+
+#: regions/XK.php:5
+msgid "Gjakova"
+msgstr ""
+
+#: regions/XK.php:6
+msgid "Gjilan"
+msgstr ""
+
+#: regions/SC.php:15
+msgid "Glacis"
+msgstr ""
+
+#: regions/IM.php:6
+msgid "Glenfaba"
+msgstr ""
+
+#: regions/GB.php:19
+msgid "Gloucestershire"
+msgstr ""
+
+#: regions/BY.php:6
+msgid "Gomel Region"
+msgstr ""
+
+#: regions/MR.php:9
+msgid "Gorgol"
+msgstr ""
+
+#: regions/SI.php:5
+msgid "Goriška"
+msgstr ""
+
+#: regions/TJ.php:5
+msgid "Gorno-Badakhshan"
+msgstr ""
+
+#: regions/SE.php:6
+msgid "Gotland"
+msgstr ""
+
+#: regions/MT.php:5
+msgid "Gozo Region"
+msgstr ""
+
+#: regions/BS.php:5
+msgid "Grand Bahama"
+msgstr ""
+
+#: regions/FR.php:9
+msgid "Grand Est"
+msgstr ""
+
+#: regions/MU.php:7
+msgid "Grand Port"
+msgstr ""
+
+#: regions/TC.php:5
+msgid "Grand Turk"
+msgstr ""
+
+#: regions/SC.php:16
+msgid "Grand'Anse (Mahé)"
+msgstr ""
+
+#: regions/SC.php:17
+msgid "Grand'Anse (Praslin)"
+msgstr ""
+
+#: regions/KM.php:5
+msgid "Grande Comore"
+msgstr ""
+
+#: regions/HT.php:13
+msgid "Grande-Anse"
+msgstr ""
+
+#: regions/GP.php:5 regions/YT.php:4
+msgid "Grande-Terre"
+msgstr ""
+
+#: regions/CU.php:16
+msgid "Granma"
+msgstr ""
+
+#: regions/VC.php:9
+msgid "Grenadines"
+msgstr ""
+
+#: regions/LU.php:9
+msgid "Grevenmacher"
+msgstr ""
+
+#: regions/BY.php:7
+msgid "Grodno Region"
+msgstr ""
+
+#: regions/NL.php:8
+msgid "Groningen"
+msgstr ""
+
+#: regions/LC.php:9
+msgid "Gros Islet"
+msgstr ""
+
+#: regions/JE.php:4
+msgid "Grouville"
+msgstr ""
+
+#: regions/SB.php:6
+msgid "Guadalcanal"
+msgstr ""
+
+#: regions/GU.php:4
+msgid "Guam"
+msgstr ""
+
+#: regions/CU.php:18
+msgid "Guantánamo"
+msgstr ""
+
+#: regions/PT.php:12
+msgid "Guarda"
+msgstr ""
+
+#: regions/PR.php:8
+msgid "Guaynabo"
+msgstr ""
+
+#: regions/MR.php:10
+msgid "Guidimaka"
+msgstr ""
+
+#: regions/PG.php:10
+msgid "Gulf"
+msgstr ""
+
+#: regions/GE.php:6
+msgid "Guria"
+msgstr ""
+
+#: regions/TD.php:11
+msgid "Guéra"
+msgstr ""
+
+#: regions/KR.php:8
+msgid "Gwangju"
+msgstr ""
+
+#: regions/KR.php:12
+msgid "Gyeonggi-do"
+msgstr ""
+
+#: regions/KR.php:18
+msgid "Gyeongsangbuk-do"
+msgstr ""
+
+#: regions/KR.php:19
+msgid "Gyeongsangnam-do"
+msgstr ""
+
+#: regions/SE.php:7
+msgid "Gävleborg"
+msgstr ""
+
+#: regions/CI.php:8
+msgid "Gôh-Djiboua"
+msgstr ""
+
+#: regions/TO.php:5
+msgid "Ha'apai"
+msgstr ""
+
+#: regions/BT.php:8
+msgid "Haa"
+msgstr ""
+
+#: regions/YE.php:7
+msgid "Hadhramaut"
+msgstr ""
+
+#: regions/TD.php:12
+msgid "Hadjer-Lamis"
+msgstr ""
+
+#: regions/VN.php:7
+msgid "Hai Phong"
+msgstr ""
+
+#: regions/IL.php:5
+msgid "Haifa"
+msgstr ""
+
+#: regions/SA.php:11
+msgid "Hail"
+msgstr ""
+
+#: regions/BE.php:7
+msgid "Hainaut"
+msgstr ""
+
+#: regions/NU.php:7
+msgid "Hakupu"
+msgstr ""
+
+#: regions/SE.php:8
+msgid "Halland"
+msgstr ""
+
+#: regions/SY.php:8
+msgid "Hama"
+msgstr ""
+
+#: regions/LK.php:12
+msgid "Hambantota"
+msgstr ""
+
+#: regions/BM.php:5
+msgid "Hamilton"
+msgstr ""
+
+#: regions/GB.php:20
+msgid "Hampshire"
+msgstr ""
+
+#: regions/VN.php:4
+msgid "Hanoi"
+msgstr ""
+
+#: regions/ZW.php:5
+msgid "Harare"
+msgstr ""
+
+#: regions/ET.php:10
+msgid "Harari"
+msgstr ""
+
+#: regions/EE.php:4
+msgid "Harjumaa"
+msgstr ""
+
+#: regions/PW.php:7
+msgid "Hatohobei"
+msgstr ""
+
+#: regions/VN.php:38
+msgid "Hau Giang"
+msgstr ""
+
+#: regions/CD.php:23
+msgid "Haut-Katanga"
+msgstr ""
+
+#: regions/CD.php:21
+msgid "Haut-Lomami"
+msgstr ""
+
+#: regions/CF.php:7
+msgid "Haut-Mbomou"
+msgstr ""
+
+#: regions/GA.php:5
+msgid "Haut-Ogooué"
+msgstr ""
+
+#: regions/CD.php:15
+msgid "Haut-Uele"
+msgstr ""
+
+#: regions/CF.php:6
+msgid "Haute-Kotto"
+msgstr ""
+
+#: regions/BF.php:12
+msgid "Hauts-Bassins"
+msgstr ""
+
+#: regions/FR.php:10
+msgid "Hauts-de-France"
+msgstr ""
+
+#: regions/KW.php:8
+msgid "Hawalli"
+msgstr ""
+
+#: regions/PS.php:7
+msgid "Hebron"
+msgstr ""
+
+#: regions/PG.php:11
+msgid "Hela"
+msgstr ""
+
+#: regions/AF.php:13
+msgid "Helmand"
+msgstr ""
+
+#: regions/AF.php:14
+msgid "Herat"
+msgstr ""
+
+#: regions/ME.php:11
+msgid "Herceg Novi"
+msgstr ""
+
+#: regions/GB.php:21
+msgid "Hertfordshire"
+msgstr ""
+
+#: regions/SZ.php:4
+msgid "Hhohho"
+msgstr ""
+
+#: regions/SO.php:11
+msgid "Hiiraan"
+msgstr ""
+
+#: regions/EE.php:5
+msgid "Hiiumaa"
+msgstr ""
+
+#: regions/NU.php:8
+msgid "Hikutavake"
+msgstr ""
+
+#: regions/VN.php:5
+msgid "Ho Chi Minh City"
+msgstr ""
+
+#: regions/MR.php:11
+msgid "Hodh Ech Chargui"
+msgstr ""
+
+#: regions/MR.php:12
+msgid "Hodh El Gharbi"
+msgstr ""
+
+#: regions/CU.php:15
+msgid "Holguín"
+msgstr ""
+
+#: regions/SY.php:7
+msgid "Homs"
+msgstr ""
+
+#: regions/DK.php:4
+msgid "Hovedstaden"
+msgstr ""
+
+#: regions/TW.php:23
+msgid "Hsinchu City"
+msgstr ""
+
+#: regions/TW.php:18
+msgid "Hsinchu County"
+msgstr ""
+
+#: regions/TW.php:11
+msgid "Hualien County"
+msgstr ""
+
+#: regions/IS.php:4
+msgid "Höfuðborgarsvæði"
+msgstr ""
+
+#: regions/YE.php:8
+msgid "Ibb"
+msgstr ""
+
+#: regions/EE.php:6
+msgid "Ida-Virumaa"
+msgstr ""
+
+#: regions/SY.php:10
+msgid "Idlib"
+msgstr ""
+
+#: regions/NR.php:13
+msgid "Ijuw"
+msgstr ""
+
+#: regions/GE.php:7
+msgid "Imereti"
+msgstr ""
+
+#: regions/KR.php:7
+msgid "Incheon"
+msgstr ""
+
+#: regions/MR.php:13
+msgid "Inchiri"
+msgstr ""
+
+#: regions/RU.php:13
+msgid "Ingushetia"
+msgstr ""
+
+#: regions/NO.php:5
+msgid "Innlandet"
+msgstr ""
+
+#: regions/JO.php:5
+msgid "Irbid"
+msgstr ""
+
+#: regions/RU.php:42
+msgid "Irkutsk Oblast"
+msgstr ""
+
+#: regions/SB.php:7
+msgid "Isabel"
+msgstr ""
+
+#: regions/CU.php:19
+msgid "Isla de la Juventud"
+msgstr ""
+
+#: regions/KG.php:12
+msgid "Issyk-Kul"
+msgstr ""
+
+#: regions/CD.php:14
+msgid "Ituri"
+msgstr ""
+
+#: regions/RU.php:43
+msgid "Ivanovo Oblast"
+msgstr ""
+
+#: regions/AZ.php:20
+msgid "Jabrayil"
+msgstr ""
+
+#: regions/LK.php:13
+msgid "Jaffna"
+msgstr ""
+
+#: regions/KG.php:8
+msgid "Jalal-Abad"
+msgstr ""
+
+#: regions/AZ.php:21
+msgid "Jalilabad"
+msgstr ""
+
+#: regions/MH.php:10
+msgid "Jaluit"
+msgstr ""
+
+#: regions/KZ.php:12
+msgid "Jambyl"
+msgstr ""
+
+#: regions/SA.php:13
+msgid "Jazan"
+msgstr ""
+
+#: regions/KR.php:20
+msgid "Jeju-do"
+msgstr ""
+
+#: regions/LV.php:36
+msgid "Jelgava"
+msgstr ""
+
+#: regions/PS.php:8
+msgid "Jenin"
+msgstr ""
+
+#: regions/KR.php:16
+msgid "Jeollabuk-do"
+msgstr ""
+
+#: regions/KR.php:17
+msgid "Jeollanam-do"
+msgstr ""
+
+#: regions/JO.php:13
+msgid "Jerash"
+msgstr ""
+
+#: regions/PS.php:9
+msgid "Jericho"
+msgstr ""
+
+#: regions/PS.php:10 regions/IL.php:6
+msgid "Jerusalem"
+msgstr ""
+
+#: regions/CZ.php:5
+msgid "Jihomoravský kraj"
+msgstr ""
+
+#: regions/CZ.php:4
+msgid "Jihočeský kraj"
+msgstr ""
+
+#: regions/PG.php:12
+msgid "Jiwaka"
+msgstr ""
+
+#: regions/UZ.php:8
+msgid "Jizzakh"
+msgstr ""
+
+#: regions/SS.php:7
+msgid "Jonglei"
+msgstr ""
+
+#: regions/AF.php:15
+msgid "Jowzjan"
+msgstr ""
+
+#: regions/IL.php:10
+msgid "Judea and Samaria"
+msgstr ""
+
+#: regions/SI.php:13
+msgid "Jugovzhodna Slovenija"
+msgstr ""
+
+#: regions/AZ.php:22
+msgid "Julfa"
+msgstr ""
+
+#: regions/SE.php:9
+msgid "Jämtland"
+msgstr ""
+
+#: regions/EE.php:8
+msgid "Järvamaa"
+msgstr ""
+
+#: regions/EE.php:7
+msgid "Jõgevamaa"
+msgstr ""
+
+#: regions/SE.php:10
+msgid "Jönköping"
+msgstr ""
+
+#: regions/LV.php:37
+msgid "Jūrmala"
+msgstr ""
+
+#: regions/RU.php:14
+msgid "Kabardino-Balkaria"
+msgstr ""
+
+#: regions/AF.php:16
+msgid "Kabul"
+msgstr ""
+
+#: regions/MM.php:10
+msgid "Kachin"
+msgstr ""
+
+#: regions/FI.php:8
+msgid "Kainuu"
+msgstr ""
+
+#: regions/TN.php:13
+msgid "Kairouan"
+msgstr ""
+
+#: regions/GE.php:8
+msgid "Kakheti"
+msgstr ""
+
+#: regions/RU.php:44
+msgid "Kaliningrad Oblast"
+msgstr ""
+
+#: regions/SE.php:11
+msgid "Kalmar"
+msgstr ""
+
+#: regions/RU.php:15
+msgid "Kalmykia"
+msgstr ""
+
+#: regions/RU.php:45
+msgid "Kaluga Oblast"
+msgstr ""
+
+#: regions/LK.php:6
+msgid "Kalutara"
+msgstr ""
+
+#: regions/RU.php:28
+msgid "Kamchatka Krai"
+msgstr ""
+
+#: regions/KH.php:7
+msgid "Kampong Cham"
+msgstr ""
+
+#: regions/KH.php:8
+msgid "Kampong Chhnang"
+msgstr ""
+
+#: regions/KH.php:9
+msgid "Kampong Speu"
+msgstr ""
+
+#: regions/KH.php:10
+msgid "Kampong Thom"
+msgstr ""
+
+#: regions/KH.php:11
+msgid "Kampot"
+msgstr ""
+
+#: regions/AF.php:17
+msgid "Kandahar"
+msgstr ""
+
+#: regions/KH.php:12
+msgid "Kandal"
+msgstr ""
+
+#: regions/LK.php:7
+msgid "Kandy"
+msgstr ""
+
+#: regions/TD.php:13
+msgid "Kanem"
+msgstr ""
+
+#: regions/KP.php:9
+msgid "Kangwon"
+msgstr ""
+
+#: regions/GN.php:10
+msgid "Kankan"
+msgstr ""
+
+#: regions/FI.php:9
+msgid "Kanta-Häme"
+msgstr ""
+
+#: regions/TW.php:5
+msgid "Kaohsiung City"
+msgstr ""
+
+#: regions/AF.php:18
+msgid "Kapisa"
+msgstr ""
+
+#: regions/TG.php:7
+msgid "Kara"
+msgstr ""
+
+#: regions/RU.php:16
+msgid "Karachay-Cherkessia"
+msgstr ""
+
+#: regions/KZ.php:13
+msgid "Karaganda"
+msgstr ""
+
+#: regions/JO.php:9
+msgid "Karak"
+msgstr ""
+
+#: regions/UZ.php:17
+msgid "Karakalpakstan"
+msgstr ""
+
+#: regions/IQ.php:16
+msgid "Karbala"
+msgstr ""
+
+#: regions/RU.php:17
+msgid "Karelia"
+msgstr ""
+
+#: regions/CZ.php:6
+msgid "Karlovarský kraj"
+msgstr ""
+
+#: regions/MW.php:12
+msgid "Karonga"
+msgstr ""
+
+#: regions/CD.php:28
+msgid "Kasaï"
+msgstr ""
+
+#: regions/CD.php:27
+msgid "Kasaï-Central"
+msgstr ""
+
+#: regions/CD.php:29
+msgid "Kasaï-Oriental"
+msgstr ""
+
+#: regions/SD.php:7
+msgid "Kassala"
+msgstr ""
+
+#: regions/MW.php:13
+msgid "Kasungu"
+msgstr ""
+
+#: regions/LT.php:5
+msgid "Kauno apskritis"
+msgstr ""
+
+#: regions/MM.php:12
+msgid "Kayah"
+msgstr ""
+
+#: regions/PW.php:8
+msgid "Kayangel"
+msgstr ""
+
+#: regions/BI.php:8
+msgid "Kayanza"
+msgstr ""
+
+#: regions/ML.php:5
+msgid "Kayes"
+msgstr ""
+
+#: regions/MM.php:13
+msgid "Kayin"
+msgstr ""
+
+#: regions/TW.php:22
+msgid "Keelung City"
+msgstr ""
+
+#: regions/LK.php:28
+msgid "Kegalle"
+msgstr ""
+
+#: regions/RU.php:46
+msgid "Kemerovo Oblast"
+msgstr ""
+
+#: regions/GB.php:22
+msgid "Kent"
+msgstr ""
+
+#: regions/KH.php:26
+msgid "Kep"
+msgstr ""
+
+#: regions/FI.php:10
+msgid "Keski-Pohjanmaa"
+msgstr ""
+
+#: regions/FI.php:11
+msgid "Keski-Suomi"
+msgstr ""
+
+#: regions/BW.php:6
+msgid "Kgalagadi"
+msgstr ""
+
+#: regions/BW.php:7
+msgid "Kgatleng"
+msgstr ""
+
+#: regions/RU.php:29
+msgid "Khabarovsk Krai"
+msgstr ""
+
+#: regions/RU.php:18
+msgid "Khakassia"
+msgstr ""
+
+#: regions/PS.php:11
+msgid "Khan Yunis"
+msgstr ""
+
+#: regions/VN.php:17
+msgid "Khanh Hoa"
+msgstr ""
+
+#: regions/SD.php:4
+msgid "Khartoum"
+msgstr ""
+
+#: regions/TJ.php:6
+msgid "Khatlon"
+msgstr ""
+
+#: regions/AF.php:19
+msgid "Khost"
+msgstr ""
+
+#: regions/MN.php:14
+msgid "Khovd"
+msgstr ""
+
+#: regions/MN.php:19
+msgid "Khövsgöl"
+msgstr ""
+
+#: regions/ML.php:12
+msgid "Kidal"
+msgstr ""
+
+#: regions/VN.php:37
+msgid "Kien Giang"
+msgstr ""
+
+#: regions/RW.php:4
+msgid "Kigali"
+msgstr ""
+
+#: regions/MH.php:11
+msgid "Kili"
+msgstr ""
+
+#: regions/LK.php:14
+msgid "Kilinochchi"
+msgstr ""
+
+#: regions/GN.php:6
+msgid "Kindia"
+msgstr ""
+
+#: regions/TW.php:12
+msgid "Kinmen County"
+msgstr ""
+
+#: regions/CD.php:4
+msgid "Kinshasa"
+msgstr ""
+
+#: regions/IQ.php:17
+msgid "Kirkuk"
+msgstr ""
+
+#: regions/RU.php:47
+msgid "Kirov Oblast"
+msgstr ""
+
+#: regions/GQ.php:8
+msgid "Kié-Ntem"
+msgstr ""
+
+#: regions/LT.php:6
+msgid "Klaipėdos apskritis"
+msgstr ""
+
+#: regions/KH.php:13
+msgid "Koh Kong"
+msgstr ""
+
+#: regions/ME.php:12
+msgid "Kolašin"
+msgstr ""
+
+#: regions/RU.php:19
+msgid "Komi"
+msgstr ""
+
+#: regions/VN.php:20
+msgid "Kon Tum"
+msgstr ""
+
+#: regions/CD.php:5
+msgid "Kongo Central"
+msgstr ""
+
+#: regions/PW.php:9
+msgid "Koror"
+msgstr ""
+
+#: regions/SI.php:10
+msgid "Koroška"
+msgstr ""
+
+#: regions/FM.php:5
+msgid "Kosrae"
+msgstr ""
+
+#: regions/KZ.php:14
+msgid "Kostanay"
+msgstr ""
+
+#: regions/RU.php:48
+msgid "Kostroma Oblast"
+msgstr ""
+
+#: regions/AM.php:8
+msgid "Kotayk"
+msgstr ""
+
+#: regions/ME.php:13
+msgid "Kotor"
+msgstr ""
+
+#: regions/CG.php:9
+msgid "Kouilou"
+msgstr ""
+
+#: regions/ML.php:6
+msgid "Koulikoro"
+msgstr ""
+
+#: regions/SK.php:6
+msgid "Košický kraj"
+msgstr ""
+
+#: regions/RU.php:30
+msgid "Krasnodar Krai"
+msgstr ""
+
+#: regions/RU.php:31
+msgid "Krasnoyarsk Krai"
+msgstr ""
+
+#: regions/KH.php:14
+msgid "Kratie"
+msgstr ""
+
+#: regions/SE.php:12
+msgid "Kronoberg"
+msgstr ""
+
+#: regions/CZ.php:7
+msgid "Královéhradecký kraj"
+msgstr ""
+
+#: regions/PL.php:5
+msgid "Kujawsko-pomorskie"
+msgstr ""
+
+#: regions/AF.php:20
+msgid "Kunar"
+msgstr ""
+
+#: regions/AF.php:21
+msgid "Kunduz"
+msgstr ""
+
+#: regions/RU.php:49
+msgid "Kurgan Oblast"
+msgstr ""
+
+#: regions/RU.php:50
+msgid "Kursk Oblast"
+msgstr ""
+
+#: regions/LK.php:21
+msgid "Kurunegala"
+msgstr ""
+
+#: regions/GE.php:9
+msgid "Kvemo Kartli"
+msgstr ""
+
+#: regions/MH.php:12
+msgid "Kwajalein"
+msgstr ""
+
+#: regions/CD.php:6
+msgid "Kwango"
+msgstr ""
+
+#: regions/BW.php:8
+msgid "Kweneng"
+msgstr ""
+
+#: regions/CD.php:7
+msgid "Kwilu"
+msgstr ""
+
+#: regions/FI.php:12
+msgid "Kymenlaakso"
+msgstr ""
+
+#: regions/CY.php:9
+msgid "Kyrenia"
+msgstr ""
+
+#: regions/KZ.php:15
+msgid "Kyzylorda"
+msgstr ""
+
+#: regions/AT.php:5
+msgid "Kärnten"
+msgstr ""
+
+#: regions/SC.php:18
+msgid "La Digue"
+msgstr ""
+
+#: regions/GP.php:7
+msgid "La Désirade"
+msgstr ""
+
+#: regions/CU.php:4
+msgid "La Habana"
+msgstr ""
+
+#: regions/AD.php:7
+msgid "La Massana"
+msgstr ""
+
+#: regions/SC.php:19
+msgid "La Rivière Anglaise"
+msgstr ""
+
+#: regions/MQ.php:5
+msgid "La Trinité"
+msgstr ""
+
+#: regions/LC.php:10
+msgid "Laborie"
+msgstr ""
+
+#: regions/GN.php:7
+msgid "Labé"
+msgstr ""
+
+#: regions/TD.php:6
+msgid "Lac"
+msgstr ""
+
+#: regions/CI.php:9
+msgid "Lacs"
+msgstr ""
+
+#: regions/MH.php:13
+msgid "Lae"
+msgstr ""
+
+#: regions/AF.php:22
+msgid "Laghman"
+msgstr ""
+
+#: regions/CW.php:9
+msgid "Lagun"
+msgstr ""
+
+#: regions/CI.php:10
+msgid "Lagunes"
+msgstr ""
+
+#: regions/YE.php:10
+msgid "Lahij"
+msgstr ""
+
+#: regions/NU.php:9
+msgid "Lakepa"
+msgstr ""
+
+#: regions/SS.php:8
+msgid "Lakes"
+msgstr ""
+
+#: regions/VN.php:24
+msgid "Lam Dong"
+msgstr ""
+
+#: regions/GB.php:23
+msgid "Lancashire"
+msgstr ""
+
+#: regions/FI.php:13
+msgid "Lappi"
+msgstr ""
+
+#: regions/CY.php:6
+msgid "Larnaca"
+msgstr ""
+
+#: regions/CU.php:14
+msgid "Las Tunas"
+msgstr ""
+
+#: regions/SY.php:9
+msgid "Latakia"
+msgstr ""
+
+#: regions/TL.php:11
+msgid "Lautém"
+msgstr ""
+
+#: regions/MQ.php:6
+msgid "Le Marin"
+msgstr ""
+
+#: regions/TM.php:7
+msgid "Lebap"
+msgstr ""
+
+#: regions/PF.php:5
+msgid "Leeward Islands"
+msgstr ""
+
+#: regions/GB.php:24
+msgid "Leicestershire"
+msgstr ""
+
+#: regions/PT.php:13
+msgid "Leiria"
+msgstr ""
+
+#: regions/ST.php:8
+msgid "Lembá"
+msgstr ""
+
+#: regions/RU.php:51
+msgid "Leningrad Oblast"
+msgstr ""
+
+#: regions/LS.php:6
+msgid "Leribe"
+msgstr ""
+
+#: regions/SC.php:27
+msgid "Les Mamelles"
+msgstr ""
+
+#: regions/GP.php:8
+msgid "Les Saintes"
+msgstr ""
+
+#: regions/BT.php:9
+msgid "Lhuentse"
+msgstr ""
+
+#: regions/MH.php:14
+msgid "Lib"
+msgstr ""
+
+#: regions/CZ.php:8
+msgid "Liberecký kraj"
+msgstr ""
+
+#: regions/LV.php:38
+msgid "Liepāja"
+msgstr ""
+
+#: regions/MH.php:15
+msgid "Likiep"
+msgstr ""
+
+#: regions/MW.php:14
+msgid "Likoma"
+msgstr ""
+
+#: regions/CG.php:10
+msgid "Likouala"
+msgstr ""
+
+#: regions/NU.php:10
+msgid "Liku"
+msgstr ""
+
+#: regions/MW.php:4
+msgid "Lilongwe"
+msgstr ""
+
+#: regions/CY.php:5
+msgid "Limassol"
+msgstr ""
+
+#: regions/NL.php:9
+msgid "Limburg"
+msgstr ""
+
+#: regions/GB.php:25
+msgid "Lincolnshire"
+msgstr ""
+
+#: regions/KI.php:5
+msgid "Line Islands"
+msgstr ""
+
+#: regions/RU.php:52
+msgid "Lipetsk Oblast"
+msgstr ""
+
+#: regions/TL.php:12
+msgid "Liquiçá"
+msgstr ""
+
+#: regions/PT.php:14
+msgid "Lisboa"
+msgstr ""
+
+#: regions/GQ.php:6
+msgid "Litoral"
+msgstr ""
+
+#: regions/KY.php:10
+msgid "Little Cayman"
+msgstr ""
+
+#: regions/CM.php:5
+msgid "Littoral"
+msgstr ""
+
+#: regions/BE.php:8
+msgid "Liège"
+msgstr ""
+
+#: regions/ST.php:9
+msgid "Lobata"
+msgstr ""
+
+#: regions/CF.php:11
+msgid "Lobaye"
+msgstr ""
+
+#: regions/AF.php:23
+msgid "Logar"
+msgstr ""
+
+#: regions/TD.php:14
+msgid "Logone Occidental"
+msgstr ""
+
+#: regions/TD.php:15
+msgid "Logone Oriental"
+msgstr ""
+
+#: regions/CD.php:25
+msgid "Lomami"
+msgstr ""
+
+#: regions/VN.php:30
+msgid "Long An"
+msgstr ""
+
+#: regions/AM.php:9
+msgid "Lori"
+msgstr ""
+
+#: regions/SO.php:13
+msgid "Lower Juba"
+msgstr ""
+
+#: regions/GM.php:5
+msgid "Lower River"
+msgstr ""
+
+#: regions/SO.php:18
+msgid "Lower Shabelle"
+msgstr ""
+
+#: regions/NC.php:6
+msgid "Loyalty Islands"
+msgstr ""
+
+#: regions/CD.php:22
+msgid "Lualaba"
+msgstr ""
+
+#: regions/PL.php:6
+msgid "Lubelskie"
+msgstr ""
+
+#: regions/SZ.php:5
+msgid "Lubombo"
+msgstr ""
+
+#: regions/PL.php:7
+msgid "Lubuskie"
+msgstr ""
+
+#: regions/LU.php:10 regions/BE.php:9
+msgid "Luxembourg"
+msgstr ""
+
+#: regions/EE.php:10
+msgid "Lääne-Virumaa"
+msgstr ""
+
+#: regions/EE.php:9
+msgid "Läänemaa"
+msgstr ""
+
+#: regions/CG.php:11
+msgid "Lékoumou"
+msgstr ""
+
+#: regions/JO.php:8
+msgid "Ma'an"
+msgstr ""
+
+#: regions/YE.php:12
+msgid "Ma'rib"
+msgstr ""
+
+#: regions/MW.php:17
+msgid "Machinga"
+msgstr ""
+
+#: regions/JO.php:12
+msgid "Madaba"
+msgstr ""
+
+#: regions/PT.php:23
+msgid "Madeira"
+msgstr ""
+
+#: regions/SA.php:6
+msgid "Madinah"
+msgstr ""
+
+#: regions/ER.php:4
+msgid "Maekel"
+msgstr ""
+
+#: regions/LS.php:8
+msgid "Mafeteng"
+msgstr ""
+
+#: regions/JO.php:10
+msgid "Mafraq"
+msgstr ""
+
+#: regions/RU.php:53
+msgid "Magadan Oblast"
+msgstr ""
+
+#: regions/MM.php:8
+msgid "Magway"
+msgstr ""
+
+#: regions/GY.php:9
+msgid "Mahaica-Berbice"
+msgstr ""
+
+#: regions/MG.php:7
+msgid "Mahajanga"
+msgstr ""
+
+#: regions/TN.php:11
+msgid "Mahdia"
+msgstr ""
+
+#: regions/CD.php:8
+msgid "Mai-Ndombe"
+msgstr ""
+
+#: regions/CV.php:6
+msgid "Maio"
+msgstr ""
+
+#: regions/MH.php:16
+msgid "Majuro"
+msgstr ""
+
+#: regions/NU.php:11
+msgid "Makefu"
+msgstr ""
+
+#: regions/SB.php:8
+msgid "Makira-Ulawa"
+msgstr ""
+
+#: regions/SA.php:5
+msgid "Makkah"
+msgstr ""
+
+#: regions/SB.php:9
+msgid "Malaita"
+msgstr ""
+
+#: regions/VU.php:4
+msgid "Malampa"
+msgstr ""
+
+#: regions/MH.php:17
+msgid "Maloelap"
+msgstr ""
+
+#: regions/MV.php:4
+msgid "Malé"
+msgstr ""
+
+#: regions/CF.php:8
+msgid "Mambéré-Kadéï"
+msgstr ""
+
+#: regions/GN.php:8
+msgid "Mamou"
+msgstr ""
+
+#: regions/TL.php:13
+msgid "Manatuto"
+msgstr ""
+
+#: regions/MM.php:5
+msgid "Mandalay"
+msgstr ""
+
+#: regions/TD.php:16
+msgid "Mandoul"
+msgstr ""
+
+#: regions/CK.php:7
+msgid "Mangaia"
+msgstr ""
+
+#: regions/MW.php:16
+msgid "Mangochi"
+msgstr ""
+
+#: regions/KZ.php:16
+msgid "Mangystau"
+msgstr ""
+
+#: regions/ZW.php:6
+msgid "Manicaland"
+msgstr ""
+
+#: regions/CD.php:20
+msgid "Maniema"
+msgstr ""
+
+#: regions/CK.php:8
+msgid "Manihiki"
+msgstr ""
+
+#: regions/LK.php:15
+msgid "Mannar"
+msgstr ""
+
+#: regions/TN.php:6
+msgid "Manouba"
+msgstr ""
+
+#: regions/AS.php:5
+msgid "Manu'a"
+msgstr ""
+
+#: regions/TL.php:14
+msgid "Manufahi"
+msgstr ""
+
+#: regions/PG.php:14
+msgid "Manus"
+msgstr ""
+
+#: regions/SZ.php:6
+msgid "Manzini"
+msgstr ""
+
+#: regions/NE.php:8
+msgid "Maradi"
+msgstr ""
+
+#: regions/RU.php:20
+msgid "Mari El"
+msgstr ""
+
+#: regions/GP.php:6
+msgid "Marie-Galante"
+msgstr ""
+
+#: regions/LT.php:7
+msgid "Marijampolės apskritis"
+msgstr ""
+
+#: regions/TG.php:4
+msgid "Maritime"
+msgstr ""
+
+#: regions/SR.php:10
+msgid "Marowijne"
+msgstr ""
+
+#: regions/PF.php:7
+msgid "Marquesas Islands"
+msgstr ""
+
+#: regions/TM.php:8
+msgid "Mary"
+msgstr ""
+
+#: regions/LS.php:4
+msgid "Maseru"
+msgstr ""
+
+#: regions/ZW.php:7
+msgid "Mashonaland Central"
+msgstr ""
+
+#: regions/ZW.php:8
+msgid "Mashonaland East"
+msgstr ""
+
+#: regions/ZW.php:9
+msgid "Mashonaland West"
+msgstr ""
+
+#: regions/ZW.php:10
+msgid "Masvingo"
+msgstr ""
+
+#: regions/ZW.php:11
+msgid "Matabeleland North"
+msgstr ""
+
+#: regions/ZW.php:12
+msgid "Matabeleland South"
+msgstr ""
+
+#: regions/LK.php:8
+msgid "Matale"
+msgstr ""
+
+#: regions/CU.php:8
+msgid "Matanzas"
+msgstr ""
+
+#: regions/LK.php:11
+msgid "Matara"
+msgstr ""
+
+#: regions/CK.php:9
+msgid "Mauke"
+msgstr ""
+
+#: regions/CU.php:7
+msgid "Mayabeque"
+msgstr ""
+
+#: regions/PR.php:11
+msgid "Mayagüez"
+msgstr ""
+
+#: regions/TT.php:8
+msgid "Mayaro-Rio Claro"
+msgstr ""
+
+#: regions/TD.php:17
+msgid "Mayo-Kebbi Est"
+msgstr ""
+
+#: regions/TD.php:18
+msgid "Mayo-Kebbi Ouest"
+msgstr ""
+
+#: regions/IQ.php:13
+msgid "Maysan"
+msgstr ""
+
+#: regions/PL.php:10
+msgid "Mazowieckie"
+msgstr ""
+
+#: regions/PL.php:9
+msgid "Małopolskie"
+msgstr ""
+
+#: regions/CF.php:12
+msgid "Mbomou"
+msgstr ""
+
+#: regions/MW.php:15
+msgid "Mchinji"
+msgstr ""
+
+#: regions/TN.php:16
+msgid "Medenine"
+msgstr ""
+
+#: regions/MH.php:18
+msgid "Mejit"
+msgstr ""
+
+#: regions/PW.php:10
+msgid "Melekeok"
+msgstr ""
+
+#: regions/NR.php:14
+msgid "Meneng"
+msgstr ""
+
+#: regions/IL.php:4
+msgid "Merkaz"
+msgstr ""
+
+#: regions/LU.php:11
+msgid "Mersch"
+msgstr ""
+
+#: regions/TW.php:17
+msgid "Miaoli County"
+msgstr ""
+
+#: regions/IM.php:7
+msgid "Michael"
+msgstr ""
+
+#: regions/LC.php:11
+msgid "Micoud"
+msgstr ""
+
+#: regions/IM.php:8
+msgid "Middle"
+msgstr ""
+
+#: regions/TC.php:8
+msgid "Middle Caicos"
+msgstr ""
+
+#: regions/SO.php:12
+msgid "Middle Juba"
+msgstr ""
+
+#: regions/SO.php:17
+msgid "Middle Shabelle"
+msgstr ""
+
+#: regions/ZW.php:13
+msgid "Midlands"
+msgstr ""
+
+#: regions/DK.php:5
+msgid "Midtjylland"
+msgstr ""
+
+#: regions/MH.php:19
+msgid "Mili"
+msgstr ""
+
+#: regions/PG.php:15
+msgid "Milne Bay"
+msgstr ""
+
+#: regions/BY.php:4
+msgid "Minsk City"
+msgstr ""
+
+#: regions/BY.php:9
+msgid "Minsk Region"
+msgstr ""
+
+#: regions/LY.php:6
+msgid "Misrata"
+msgstr ""
+
+#: regions/CK.php:10
+msgid "Mitiaro"
+msgstr ""
+
+#: regions/XK.php:7
+msgid "Mitrovica"
+msgstr ""
+
+#: regions/BY.php:8
+msgid "Mogilev Region"
+msgstr ""
+
+#: regions/LS.php:9
+msgid "Mohale's Hoek"
+msgstr ""
+
+#: regions/KM.php:6
+msgid "Mohéli"
+msgstr ""
+
+#: regions/ME.php:14
+msgid "Mojkovac"
+msgstr ""
+
+#: regions/MU.php:8
+msgid "Moka"
+msgstr ""
+
+#: regions/LS.php:12
+msgid "Mokhotlong"
+msgstr ""
+
+#: regions/MM.php:14
+msgid "Mon"
+msgstr ""
+
+#: regions/LK.php:26
+msgid "Monaragala"
+msgstr ""
+
+#: regions/TN.php:10
+msgid "Monastir"
+msgstr ""
+
+#: regions/KH.php:15
+msgid "Mondulkiri"
+msgstr ""
+
+#: regions/CD.php:10
+msgid "Mongala"
+msgstr ""
+
+#: regions/BT.php:10
+msgid "Mongar"
+msgstr ""
+
+#: regions/SC.php:20
+msgid "Mont Buxton"
+msgstr ""
+
+#: regions/SC.php:21
+msgid "Mont Fleuri"
+msgstr ""
+
+#: regions/CI.php:11
+msgid "Montagnes"
+msgstr ""
+
+#: regions/SM.php:10
+msgid "Montegiardino"
+msgstr ""
+
+#: regions/ML.php:9
+msgid "Mopti"
+msgstr ""
+
+#: regions/CZ.php:9
+msgid "Moravskoslezský kraj"
+msgstr ""
+
+#: regions/RU.php:21
+msgid "Mordovia"
+msgstr ""
+
+#: regions/PG.php:13
+msgid "Morobe"
+msgstr ""
+
+#: regions/RU.php:4
+msgid "Moscow"
+msgstr ""
+
+#: regions/RU.php:54
+msgid "Moscow Oblast"
+msgstr ""
+
+#: regions/CV.php:7
+msgid "Mosteiros"
+msgstr ""
+
+#: regions/LB.php:8
+msgid "Mount Lebanon"
+msgstr ""
+
+#: regions/TD.php:19
+msgid "Moyen-Chari"
+msgstr ""
+
+#: regions/GA.php:6
+msgid "Moyen-Ogooué"
+msgstr ""
+
+#: regions/GE.php:10
+msgid "Mtskheta-Mtianeti"
+msgstr ""
+
+#: regions/KW.php:9
+msgid "Mubarak Al-Kabeer"
+msgstr ""
+
+#: regions/SO.php:14
+msgid "Mudug"
+msgstr ""
+
+#: regions/BH.php:6
+msgid "Muharraq"
+msgstr ""
+
+#: regions/MW.php:18
+msgid "Mulanje"
+msgstr ""
+
+#: regions/LK.php:17
+msgid "Mullaitivu"
+msgstr ""
+
+#: regions/RU.php:55
+msgid "Murmansk Oblast"
+msgstr ""
+
+#: regions/OM.php:6
+msgid "Musandam"
+msgstr ""
+
+#: regions/OM.php:4
+msgid "Muscat"
+msgstr ""
+
+#: regions/NU.php:12
+msgid "Mutalau"
+msgstr ""
+
+#: regions/MW.php:19
+msgid "Mwanza"
+msgstr ""
+
+#: regions/MW.php:20
+msgid "Mzimba"
+msgstr ""
+
+#: regions/ST.php:10
+msgid "Mé-Zóchi"
+msgstr ""
+
+#: regions/NO.php:6
+msgid "Møre og Romsdal"
+msgstr ""
+
+#: regions/TD.php:4
+msgid "N'Djamena"
+msgstr ""
+
+#: regions/LB.php:9
+msgid "Nabatieh"
+msgstr ""
+
+#: regions/TN.php:8
+msgid "Nabeul"
+msgstr ""
+
+#: regions/PS.php:12
+msgid "Nablus"
+msgstr ""
+
+#: regions/AZ.php:7
+msgid "Naftalan"
+msgstr ""
+
+#: regions/IQ.php:8
+msgid "Najaf"
+msgstr ""
+
+#: regions/SA.php:14
+msgid "Najran"
+msgstr ""
+
+#: regions/UZ.php:9
+msgid "Namangan"
+msgstr ""
+
+#: regions/MH.php:20
+msgid "Namorik"
+msgstr ""
+
+#: regions/KP.php:15
+msgid "Nampo"
+msgstr ""
+
+#: regions/MH.php:21
+msgid "Namu"
+msgstr ""
+
+#: regions/NU.php:13
+msgid "Namukulu"
+msgstr ""
+
+#: regions/BE.php:10
+msgid "Namur"
+msgstr ""
+
+#: regions/CF.php:9
+msgid "Nana-Grébizi"
+msgstr ""
+
+#: regions/CF.php:10 regions/CF.php:14
+msgid "Nana-Mambéré"
+msgstr ""
+
+#: regions/AF.php:24
+msgid "Nangarhar"
+msgstr ""
+
+#: regions/TW.php:13
+msgid "Nantou County"
+msgstr ""
+
+#: regions/KG.php:9
+msgid "Naryn"
+msgstr ""
+
+#: regions/PG.php:4
+msgid "National Capital District"
+msgstr ""
+
+#: regions/UZ.php:10
+msgid "Navoiy"
+msgstr ""
+
+#: regions/MW.php:21
+msgid "Neno"
+msgstr ""
+
+#: regions/PG.php:16
+msgid "New Ireland"
+msgstr ""
+
+#: regions/BS.php:4
+msgid "New Providence"
+msgstr ""
+
+#: regions/TW.php:6
+msgid "New Taipei City"
+msgstr ""
+
+#: regions/PW.php:11
+msgid "Ngaraard"
+msgstr ""
+
+#: regions/PW.php:12
+msgid "Ngarchelong"
+msgstr ""
+
+#: regions/PW.php:13
+msgid "Ngardmau"
+msgstr ""
+
+#: regions/PW.php:14
+msgid "Ngatpang"
+msgstr ""
+
+#: regions/PW.php:15
+msgid "Ngchesar"
+msgstr ""
+
+#: regions/PW.php:16
+msgid "Ngeremlengui"
+msgstr ""
+
+#: regions/VN.php:9
+msgid "Nghe An"
+msgstr ""
+
+#: regions/PW.php:17
+msgid "Ngiwal"
+msgstr ""
+
+#: regions/GA.php:7
+msgid "Ngounié"
+msgstr ""
+
+#: regions/BI.php:7
+msgid "Ngozi"
+msgstr ""
+
+#: regions/NE.php:4
+msgid "Niamey"
+msgstr ""
+
+#: regions/CG.php:12
+msgid "Niari"
+msgstr ""
+
+#: regions/NR.php:15
+msgid "Nibok"
+msgstr ""
+
+#: regions/SR.php:6
+msgid "Nickerie"
+msgstr ""
+
+#: regions/CY.php:4
+msgid "Nicosia"
+msgstr ""
+
+#: regions/AT.php:6
+msgid "Niederösterreich"
+msgstr ""
+
+#: regions/ME.php:15
+msgid "Nikšić"
+msgstr ""
+
+#: regions/AF.php:25
+msgid "Nimroz"
+msgstr ""
+
+#: regions/IQ.php:18
+msgid "Nineveh"
+msgstr ""
+
+#: regions/VN.php:18
+msgid "Ninh Thuan"
+msgstr ""
+
+#: regions/HT.php:9
+msgid "Nippes"
+msgstr ""
+
+#: regions/SK.php:7
+msgid "Nitriansky kraj"
+msgstr ""
+
+#: regions/TO.php:6
+msgid "Niuas"
+msgstr ""
+
+#: regions/RU.php:56
+msgid "Nizhny Novgorod Oblast"
+msgstr ""
+
+#: regions/MW.php:22
+msgid "Nkhata Bay"
+msgstr ""
+
+#: regions/MW.php:23
+msgid "Nkhotakota"
+msgstr ""
+
+#: regions/AW.php:4
+msgid "Noord"
+msgstr ""
+
+#: regions/NL.php:10
+msgid "Noord-Brabant"
+msgstr ""
+
+#: regions/NL.php:11
+msgid "Noord-Holland"
+msgstr ""
+
+#: regions/HT.php:6 regions/BF.php:13 regions/CM.php:12
+msgid "Nord"
+msgstr ""
+
+#: regions/HT.php:10
+msgid "Nord-Est"
+msgstr ""
+
+#: regions/CD.php:18
+msgid "Nord-Kivu"
+msgstr ""
+
+#: regions/HT.php:11
+msgid "Nord-Ouest"
+msgstr ""
+
+#: regions/CD.php:11
+msgid "Nord-Ubangi"
+msgstr ""
+
+#: regions/DK.php:6
+msgid "Nordjylland"
+msgstr ""
+
+#: regions/NO.php:7
+msgid "Nordland"
+msgstr ""
+
+#: regions/GB.php:26
+msgid "Norfolk"
+msgstr ""
+
+#: regions/FR.php:12
+msgid "Normandie"
+msgstr ""
+
+#: regions/SE.php:13
+msgid "Norrbotten"
+msgstr ""
+
+#: regions/LB.php:10 regions/IL.php:7
+msgid "North"
+msgstr ""
+
+#: regions/GM.php:7
+msgid "North Bank"
+msgstr ""
+
+#: regions/TC.php:6
+msgid "North Caicos"
+msgstr ""
+
+#: regions/PS.php:13
+msgid "North Gaza"
+msgstr ""
+
+#: regions/KP.php:5
+msgid "North Hamgyong"
+msgstr ""
+
+#: regions/KP.php:7
+msgid "North Hwanghae"
+msgstr ""
+
+#: regions/KZ.php:18
+msgid "North Kazakhstan"
+msgstr ""
+
+#: regions/SD.php:12
+msgid "North Kordofan"
+msgstr ""
+
+#: regions/RU.php:23
+msgid "North Ossetia-Alania"
+msgstr ""
+
+#: regions/NC.php:5
+msgid "North Province"
+msgstr ""
+
+#: regions/KP.php:10
+msgid "North Pyongan"
+msgstr ""
+
+#: regions/KY.php:7
+msgid "North Side"
+msgstr ""
+
+#: regions/SL.php:8
+msgid "North West"
+msgstr ""
+
+#: regions/GB.php:27
+msgid "North Yorkshire"
+msgstr ""
+
+#: regions/BW.php:9
+msgid "North-East"
+msgstr ""
+
+#: regions/BW.php:10 regions/CM.php:7
+msgid "North-West"
+msgstr ""
+
+#: regions/GB.php:28
+msgid "Northamptonshire"
+msgstr ""
+
+#: regions/BH.php:7 regions/SL.php:6 regions/RW.php:6 regions/FJ.php:6
+#: regions/SD.php:10
+msgid "Northern"
+msgstr ""
+
+#: regions/PG.php:17
+msgid "Northern (Oro)"
+msgstr ""
+
+#: regions/SS.php:13
+msgid "Northern Bahr el Ghazal"
+msgstr ""
+
+#: regions/SA.php:12
+msgid "Northern Borders"
+msgstr ""
+
+#: regions/GB.php:7
+msgid "Northern Ireland"
+msgstr ""
+
+#: regions/MP.php:4
+msgid "Northern Islands"
+msgstr ""
+
+#: regions/MT.php:6
+msgid "Northern Region"
+msgstr ""
+
+#: regions/FO.php:5
+msgid "Norðoyar"
+msgstr ""
+
+#: regions/IS.php:9
+msgid "Norðurland eystra"
+msgstr ""
+
+#: regions/IS.php:8
+msgid "Norðurland vestra"
+msgstr ""
+
+#: regions/GB.php:29
+msgid "Nottinghamshire"
+msgstr ""
+
+#: regions/MR.php:5
+msgid "Nouadhibou"
+msgstr ""
+
+#: regions/MR.php:4
+msgid "Nouakchott"
+msgstr ""
+
+#: regions/FR.php:13
+msgid "Nouvelle-Aquitaine"
+msgstr ""
+
+#: regions/RU.php:57
+msgid "Novgorod Oblast"
+msgstr ""
+
+#: regions/RU.php:58
+msgid "Novosibirsk Oblast"
+msgstr ""
+
+#: regions/MW.php:24
+msgid "Nsanje"
+msgstr ""
+
+#: regions/MW.php:25
+msgid "Ntcheu"
+msgstr ""
+
+#: regions/MW.php:26
+msgid "Ntchisi"
+msgstr ""
+
+#: regions/SO.php:15
+msgid "Nugaal"
+msgstr ""
+
+#: regions/AF.php:26
+msgid "Nuristan"
+msgstr ""
+
+#: regions/LK.php:9
+msgid "Nuwara Eliya"
+msgstr ""
+
+#: regions/GA.php:8
+msgid "Nyanga"
+msgstr ""
+
+#: regions/GN.php:11
+msgid "Nzérékoré"
+msgstr ""
+
+#: regions/SI.php:6
+msgid "Obalno-kraška"
+msgstr ""
+
+#: regions/AT.php:7
+msgid "Oberösterreich"
+msgstr ""
+
+#: regions/DJ.php:8
+msgid "Obock"
+msgstr ""
+
+#: regions/FR.php:14
+msgid "Occitanie"
+msgstr ""
+
+#: regions/KH.php:16
+msgid "Oddar Meanchey"
+msgstr ""
+
+#: regions/TL.php:15
+msgid "Oecusse"
+msgstr ""
+
+#: regions/GA.php:9
+msgid "Ogooué-Ivindo"
+msgstr ""
+
+#: regions/GA.php:10
+msgid "Ogooué-Lolo"
+msgstr ""
+
+#: regions/GA.php:11
+msgid "Ogooué-Maritime"
+msgstr ""
+
+#: regions/GW.php:10
+msgid "Oio"
+msgstr ""
+
+#: regions/CZ.php:10
+msgid "Olomoucký kraj"
+msgstr ""
+
+#: regions/CF.php:13
+msgid "Ombella-M’Poko"
+msgstr ""
+
+#: regions/RU.php:59
+msgid "Omsk Oblast"
+msgstr ""
+
+#: regions/BE.php:11
+msgid "Oost-Vlaanderen"
+msgstr ""
+
+#: regions/PL.php:11
+msgid "Opolskie"
+msgstr ""
+
+#: regions/BZ.php:7
+msgid "Orange Walk"
+msgstr ""
+
+#: regions/AW.php:5
+msgid "Oranjestad Oost"
+msgstr ""
+
+#: regions/AD.php:6
+msgid "Ordino"
+msgstr ""
+
+#: regions/RU.php:60
+msgid "Orenburg Oblast"
+msgstr ""
+
+#: regions/MN.php:15
+msgid "Orkhon"
+msgstr ""
+
+#: regions/ET.php:11
+msgid "Oromia"
+msgstr ""
+
+#: regions/RU.php:61
+msgid "Oryol Oblast"
+msgstr ""
+
+#: regions/KG.php:5
+msgid "Osh City"
+msgstr ""
+
+#: regions/KG.php:10
+msgid "Osh Region"
+msgstr ""
+
+#: regions/NO.php:8
+msgid "Oslo"
+msgstr ""
+
+#: regions/SI.php:4
+msgid "Osrednjeslovenska"
+msgstr ""
+
+#: regions/TD.php:20
+msgid "Ouaddaï"
+msgstr ""
+
+#: regions/CF.php:16
+msgid "Ouaka"
+msgstr ""
+
+#: regions/HT.php:4 regions/CM.php:6
+msgid "Ouest"
+msgstr ""
+
+#: regions/CF.php:17
+msgid "Ouham"
+msgstr ""
+
+#: regions/CF.php:15
+msgid "Ouham-Pendé"
+msgstr ""
+
+#: regions/NL.php:12
+msgid "Overijssel"
+msgstr ""
+
+#: regions/GB.php:30
+msgid "Oxfordshire"
+msgstr ""
+
+#: regions/BM.php:6
+msgid "Paget"
+msgstr ""
+
+#: regions/KH.php:27
+msgid "Pailin"
+msgstr ""
+
+#: regions/AF.php:27
+msgid "Paktia"
+msgstr ""
+
+#: regions/AF.php:28
+msgid "Paktika"
+msgstr ""
+
+#: regions/WS.php:10
+msgid "Palauli"
+msgstr ""
+
+#: regions/CK.php:11
+msgid "Palmerston"
+msgstr ""
+
+#: regions/MU.php:9
+msgid "Pamplemousses"
+msgstr ""
+
+#: regions/LT.php:8
+msgid "Panevėžio apskritis"
+msgstr ""
+
+#: regions/AF.php:29
+msgid "Panjshir"
+msgstr ""
+
+#: regions/CY.php:8
+msgid "Paphos"
+msgstr ""
+
+#: regions/SR.php:11
+msgid "Para"
+msgstr ""
+
+#: regions/AW.php:6
+msgid "Paradera"
+msgstr ""
+
+#: regions/SR.php:4
+msgid "Paramaribo"
+msgstr ""
+
+#: regions/CZ.php:11
+msgid "Pardubický kraj"
+msgstr ""
+
+#: regions/BT.php:11
+msgid "Paro"
+msgstr ""
+
+#: regions/AF.php:30
+msgid "Parwan"
+msgstr ""
+
+#: regions/CV.php:8
+msgid "Paul"
+msgstr ""
+
+#: regions/KZ.php:17
+msgid "Pavlodar"
+msgstr ""
+
+#: regions/FR.php:15
+msgid "Pays de la Loire"
+msgstr ""
+
+#: regions/XK.php:8
+msgid "Peja"
+msgstr ""
+
+#: regions/PW.php:18
+msgid "Peleliu"
+msgstr ""
+
+#: regions/BT.php:12
+msgid "Pema Gatshel"
+msgstr ""
+
+#: regions/BM.php:7
+msgid "Pembroke"
+msgstr ""
+
+#: regions/TT.php:9
+msgid "Penal-Debe"
+msgstr ""
+
+#: regions/VU.php:5
+msgid "Penama"
+msgstr ""
+
+#: regions/TW.php:14
+msgid "Penghu County"
+msgstr ""
+
+#: regions/CK.php:12
+msgid "Penrhyn"
+msgstr ""
+
+#: regions/RU.php:62
+msgid "Penza Oblast"
+msgstr ""
+
+#: regions/RU.php:32
+msgid "Perm Krai"
+msgstr ""
+
+#: regions/YT.php:5
+msgid "Petite-Terre"
+msgstr ""
+
+#: regions/MW.php:27
+msgid "Phalombe"
+msgstr ""
+
+#: regions/KH.php:4
+msgid "Phnom Penh"
+msgstr ""
+
+#: regions/KI.php:6
+msgid "Phoenix Islands"
+msgstr ""
+
+#: regions/VN.php:16
+msgid "Phu Yen"
+msgstr ""
+
+#: regions/CU.php:5
+msgid "Pinar del Río"
+msgstr ""
+
+#: regions/TW.php:15
+msgid "Pingtung County"
+msgstr ""
+
+#: regions/FI.php:14
+msgid "Pirkanmaa"
+msgstr ""
+
+#: regions/MU.php:10
+msgid "Plaines Wilhems"
+msgstr ""
+
+#: regions/SC.php:22
+msgid "Plaisance"
+msgstr ""
+
+#: regions/BF.php:14
+msgid "Plateau-Central"
+msgstr ""
+
+#: regions/CG.php:13 regions/TG.php:5
+msgid "Plateaux"
+msgstr ""
+
+#: regions/ME.php:16
+msgid "Plav"
+msgstr ""
+
+#: regions/ME.php:17
+msgid "Pljevlja"
+msgstr ""
+
+#: regions/ME.php:18
+msgid "Plužine"
+msgstr ""
+
+#: regions/CZ.php:12
+msgid "Plzeňský kraj"
+msgstr ""
+
+#: regions/ME.php:19
+msgid "Podgorica"
+msgstr ""
+
+#: regions/PL.php:12
+msgid "Podkarpackie"
+msgstr ""
+
+#: regions/PL.php:13
+msgid "Podlaskie"
+msgstr ""
+
+#: regions/SI.php:9
+msgid "Podravska"
+msgstr ""
+
+#: regions/FI.php:15
+msgid "Pohjanmaa"
+msgstr ""
+
+#: regions/FI.php:16
+msgid "Pohjois-Karjala"
+msgstr ""
+
+#: regions/FI.php:17
+msgid "Pohjois-Pohjanmaa"
+msgstr ""
+
+#: regions/FI.php:18
+msgid "Pohjois-Savo"
+msgstr ""
+
+#: regions/FM.php:6
+msgid "Pohnpei"
+msgstr ""
+
+#: regions/TT.php:12
+msgid "Point Fortin"
+msgstr ""
+
+#: regions/SC.php:23
+msgid "Pointe La Rue"
+msgstr ""
+
+#: regions/CG.php:5
+msgid "Pointe-Noire"
+msgstr ""
+
+#: regions/LK.php:24
+msgid "Polonnaruwa"
+msgstr ""
+
+#: regions/GY.php:10
+msgid "Pomeroon-Supenaam"
+msgstr ""
+
+#: regions/PL.php:14
+msgid "Pomorskie"
+msgstr ""
+
+#: regions/SI.php:14
+msgid "Pomurska"
+msgstr ""
+
+#: regions/PR.php:7
+msgid "Ponce"
+msgstr ""
+
+#: regions/CG.php:15
+msgid "Pool"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Populates missing region data for WooCommerce from individual country files "
+"in regions directory."
+msgstr ""
+
+#: regions/SC.php:24
+msgid "Port Glaud"
+msgstr ""
+
+#: regions/MU.php:11
+msgid "Port Louis"
+msgstr ""
+
+#: regions/TT.php:10
+msgid "Port of Spain"
+msgstr ""
+
+#: regions/PT.php:15
+msgid "Portalegre"
+msgstr ""
+
+#: regions/PT.php:16
+msgid "Porto"
+msgstr ""
+
+#: regions/CV.php:9
+msgid "Porto Novo"
+msgstr ""
+
+#: regions/SI.php:12
+msgid "Posavska"
+msgstr ""
+
+#: regions/GY.php:11
+msgid "Potaro-Siparuni"
+msgstr ""
+
+#: regions/CZ.php:13
+msgid "Praha"
+msgstr ""
+
+#: regions/CV.php:10
+msgid "Praia"
+msgstr ""
+
+#: regions/LC.php:12
+msgid "Praslin"
+msgstr ""
+
+#: regions/KH.php:17
+msgid "Preah Vihear"
+msgstr ""
+
+#: regions/KH.php:18
+msgid "Prey Veng"
+msgstr ""
+
+#: regions/SK.php:8
+msgid "Prešovský kraj"
+msgstr ""
+
+#: regions/SI.php:7
+msgid "Primorsko-notranjska"
+msgstr ""
+
+#: regions/RU.php:33
+msgid "Primorsky Krai"
+msgstr ""
+
+#: regions/TT.php:11
+msgid "Princes Town"
+msgstr ""
+
+#: regions/XK.php:9
+msgid "Prishtina"
+msgstr ""
+
+#: regions/XK.php:10
+msgid "Prizren"
+msgstr ""
+
+#: regions/FR.php:16
+msgid "Provence-Alpes-Côte d'Azur"
+msgstr ""
+
+#: regions/TC.php:4
+msgid "Providenciales"
+msgstr ""
+
+#: regions/ST.php:4
+msgid "Príncipe"
+msgstr ""
+
+#: regions/RU.php:63
+msgid "Pskov Oblast"
+msgstr ""
+
+#: regions/CK.php:13
+msgid "Pukapuka"
+msgstr ""
+
+#: regions/BT.php:13
+msgid "Punakha"
+msgstr ""
+
+#: regions/KH.php:19
+msgid "Pursat"
+msgstr ""
+
+#: regions/LK.php:22
+msgid "Puttalam"
+msgstr ""
+
+#: regions/KP.php:13
+msgid "Pyongyang"
+msgstr ""
+
+#: regions/FI.php:19
+msgid "Päijät-Häme"
+msgstr ""
+
+#: regions/EE.php:12
+msgid "Pärnumaa"
+msgstr ""
+
+#: regions/EE.php:11
+msgid "Põlvamaa"
+msgstr ""
+
+#: regions/LS.php:11
+msgid "Qacha's Nek"
+msgstr ""
+
+#: regions/PS.php:14
+msgid "Qalqilya"
+msgstr ""
+
+#: regions/UZ.php:11
+msgid "Qashqadaryo"
+msgstr ""
+
+#: regions/VN.php:10
+msgid "Quang Binh"
+msgstr ""
+
+#: regions/VN.php:13
+msgid "Quang Nam"
+msgstr ""
+
+#: regions/VN.php:14
+msgid "Quang Ngai"
+msgstr ""
+
+#: regions/VN.php:11
+msgid "Quang Tri"
+msgstr ""
+
+#: regions/GW.php:11
+msgid "Quinara"
+msgstr ""
+
+#: regions/SY.php:17
+msgid "Quneitra"
+msgstr ""
+
+#: regions/LS.php:10
+msgid "Quthing"
+msgstr ""
+
+#: regions/GE.php:11
+msgid "Racha-Lechkhumi and Kvemo Svaneti"
+msgstr ""
+
+#: regions/PS.php:15
+msgid "Rafah"
+msgstr ""
+
+#: regions/CK.php:14
+msgid "Rakahanga"
+msgstr ""
+
+#: regions/MM.php:15
+msgid "Rakhine"
+msgstr ""
+
+#: regions/PS.php:16
+msgid "Ramallah"
+msgstr ""
+
+#: regions/EE.php:13
+msgid "Raplamaa"
+msgstr ""
+
+#: regions/SY.php:14
+msgid "Raqqa"
+msgstr ""
+
+#: regions/CK.php:4
+msgid "Rarotonga"
+msgstr ""
+
+#: regions/AE.php:9
+msgid "Ras Al Khaimah"
+msgstr ""
+
+#: regions/KP.php:14
+msgid "Rason"
+msgstr ""
+
+#: regions/KH.php:20
+msgid "Ratanakiri"
+msgstr ""
+
+#: regions/LK.php:27
+msgid "Ratnapura"
+msgstr ""
+
+#: regions/SD.php:6
+msgid "Red Sea"
+msgstr ""
+
+#: regions/LU.php:12
+msgid "Redange"
+msgstr ""
+
+#: regions/AG.php:11
+msgid "Redonda"
+msgstr ""
+
+#: regions/LU.php:13
+msgid "Remich"
+msgstr ""
+
+#: regions/SB.php:10
+msgid "Rennell and Bellona"
+msgstr ""
+
+#: regions/BA.php:5
+msgid "Republika Srpska"
+msgstr ""
+
+#: regions/CV.php:11
+msgid "Ribeira Grande"
+msgstr ""
+
+#: regions/SY.php:6
+msgid "Rif Dimashq"
+msgstr ""
+
+#: regions/SD.php:9
+msgid "River Nile"
+msgstr ""
+
+#: regions/MU.php:12
+msgid "Rivière du Rempart"
+msgstr ""
+
+#: regions/SA.php:4
+msgid "Riyadh"
+msgstr ""
+
+#: regions/SC.php:28
+msgid "Roche Caiman"
+msgstr ""
+
+#: regions/MU.php:13
+msgid "Rodrigues"
+msgstr ""
+
+#: regions/NO.php:9
+msgid "Rogaland"
+msgstr ""
+
+#: regions/MH.php:22
+msgid "Rongelap"
+msgstr ""
+
+#: regions/AS.php:6
+msgid "Rose Island"
+msgstr ""
+
+#: regions/RU.php:64
+msgid "Rostov Oblast"
+msgstr ""
+
+#: regions/MP.php:5
+msgid "Rota"
+msgstr ""
+
+#: regions/FJ.php:8
+msgid "Rotuma"
+msgstr ""
+
+#: regions/ME.php:20
+msgid "Rožaje"
+msgstr ""
+
+#: regions/MW.php:28
+msgid "Rumphi"
+msgstr ""
+
+#: regions/IM.php:9
+msgid "Rushen"
+msgstr ""
+
+#: regions/KP.php:12
+msgid "Ryanggang"
+msgstr ""
+
+#: regions/RU.php:65
+msgid "Ryazan Oblast"
+msgstr ""
+
+#: regions/LV.php:39
+msgid "Rēzekne"
+msgstr ""
+
+#: regions/LV.php:34
+msgid "Rīga"
+msgstr ""
+
+#: regions/YE.php:11
+msgid "Sa'dah"
+msgstr ""
+
+#: regions/EE.php:14
+msgid "Saaremaa"
+msgstr ""
+
+#: regions/LY.php:8
+msgid "Sabha"
+msgstr ""
+
+#: regions/MM.php:7
+msgid "Sagaing"
+msgstr ""
+
+#: regions/BF.php:15
+msgid "Sahel"
+msgstr ""
+
+#: regions/VC.php:5 regions/DM.php:4 regions/BB.php:5 regions/GD.php:4
+msgid "Saint Andrew"
+msgstr ""
+
+#: regions/VI.php:4
+msgid "Saint Croix"
+msgstr ""
+
+#: regions/VC.php:6 regions/DM.php:5 regions/GD.php:5
+msgid "Saint David"
+msgstr ""
+
+#: regions/VC.php:7 regions/DM.php:6 regions/AG.php:4 regions/BB.php:6
+#: regions/GD.php:6
+msgid "Saint George"
+msgstr ""
+
+#: regions/BM.php:8
+msgid "Saint George's"
+msgstr ""
+
+#: regions/BB.php:7
+msgid "Saint James"
+msgstr ""
+
+#: regions/DM.php:7 regions/VI.php:5 regions/AG.php:5 regions/BB.php:8
+#: regions/GD.php:7
+msgid "Saint John"
+msgstr ""
+
+#: regions/DM.php:8 regions/BB.php:9
+msgid "Saint Joseph"
+msgstr ""
+
+#: regions/SC.php:25
+msgid "Saint Louis"
+msgstr ""
+
+#: regions/BB.php:10
+msgid "Saint Lucy"
+msgstr ""
+
+#: regions/DM.php:9
+msgid "Saint Luke"
+msgstr ""
+
+#: regions/DM.php:10 regions/GD.php:8
+msgid "Saint Mark"
+msgstr ""
+
+#: regions/AG.php:6
+msgid "Saint Mary"
+msgstr ""
+
+#: regions/BB.php:11
+msgid "Saint Michael"
+msgstr ""
+
+#: regions/VC.php:8 regions/DM.php:11 regions/GD.php:9
+msgid "Saint Patrick"
+msgstr ""
+
+#: regions/DM.php:12 regions/AG.php:7
+msgid "Saint Paul"
+msgstr ""
+
+#: regions/DM.php:13 regions/AG.php:8 regions/BB.php:12
+msgid "Saint Peter"
+msgstr ""
+
+#: regions/RU.php:5
+msgid "Saint Petersburg"
+msgstr ""
+
+#: regions/AG.php:9 regions/BB.php:13
+msgid "Saint Philip"
+msgstr ""
+
+#: regions/VI.php:6 regions/BB.php:14
+msgid "Saint Thomas"
+msgstr ""
+
+#: regions/CW.php:7
+msgid "Saint Willibrordus"
+msgstr ""
+
+#: regions/RE.php:4
+msgid "Saint-Benoît"
+msgstr ""
+
+#: regions/RE.php:5
+msgid "Saint-Denis"
+msgstr ""
+
+#: regions/GF.php:6
+msgid "Saint-Georges"
+msgstr ""
+
+#: regions/GF.php:5
+msgid "Saint-Laurent-du-Maroni"
+msgstr ""
+
+#: regions/RE.php:6
+msgid "Saint-Paul"
+msgstr ""
+
+#: regions/MQ.php:7 regions/RE.php:7
+msgid "Saint-Pierre"
+msgstr ""
+
+#: regions/MP.php:6
+msgid "Saipan"
+msgstr ""
+
+#: regions/RU.php:22
+msgid "Sakha (Yakutia)"
+msgstr ""
+
+#: regions/RU.php:66
+msgid "Sakhalin Oblast"
+msgstr ""
+
+#: regions/CV.php:12
+msgid "Sal"
+msgstr ""
+
+#: regions/IQ.php:21
+msgid "Saladin"
+msgstr ""
+
+#: regions/TD.php:21 regions/TD.php:26
+msgid "Salamat"
+msgstr ""
+
+#: regions/PS.php:17
+msgid "Salfit"
+msgstr ""
+
+#: regions/MW.php:29
+msgid "Salima"
+msgstr ""
+
+#: regions/TC.php:9
+msgid "Salt Cay"
+msgstr ""
+
+#: regions/AT.php:8
+msgid "Salzburg"
+msgstr ""
+
+#: regions/AF.php:31
+msgid "Samangan"
+msgstr ""
+
+#: regions/RU.php:67
+msgid "Samara Oblast"
+msgstr ""
+
+#: regions/UZ.php:12
+msgid "Samarkand"
+msgstr ""
+
+#: regions/BT.php:14
+msgid "Samdrup Jongkhar"
+msgstr ""
+
+#: regions/GE.php:12
+msgid "Samegrelo-Zemo Svaneti"
+msgstr ""
+
+#: regions/BT.php:15
+msgid "Samtse"
+msgstr ""
+
+#: regions/GE.php:13
+msgid "Samtskhe-Javakheti"
+msgstr ""
+
+#: regions/TT.php:13
+msgid "San Fernando"
+msgstr ""
+
+#: regions/PR.php:4
+msgid "San Juan"
+msgstr ""
+
+#: regions/TT.php:15
+msgid "San Juan-Laventille"
+msgstr ""
+
+#: regions/AW.php:7
+msgid "San Nicolas Zuid"
+msgstr ""
+
+#: regions/YE.php:4
+msgid "Sana'a"
+msgstr ""
+
+#: regions/SO.php:16
+msgid "Sanaag"
+msgstr ""
+
+#: regions/CU.php:11
+msgid "Sancti Spíritus"
+msgstr ""
+
+#: regions/PG.php:18
+msgid "Sandaun (West Sepik)"
+msgstr ""
+
+#: regions/FO.php:6
+msgid "Sandoy"
+msgstr ""
+
+#: regions/BM.php:9
+msgid "Sandys"
+msgstr ""
+
+#: regions/CG.php:14
+msgid "Sangha"
+msgstr ""
+
+#: regions/CF.php:18
+msgid "Sangha-Mbaéré"
+msgstr ""
+
+#: regions/TT.php:14
+msgid "Sangre Grande"
+msgstr ""
+
+#: regions/CD.php:26
+msgid "Sankuru"
+msgstr ""
+
+#: regions/VU.php:6
+msgid "Sanma"
+msgstr ""
+
+#: regions/AD.php:8
+msgid "Sant Julià de Lòria"
+msgstr ""
+
+#: regions/CV.php:13
+msgid "Santa Catarina"
+msgstr ""
+
+#: regions/CV.php:14 regions/AW.php:8
+msgid "Santa Cruz"
+msgstr ""
+
+#: regions/PT.php:17
+msgid "Santarém"
+msgstr ""
+
+#: regions/CU.php:17
+msgid "Santiago de Cuba"
+msgstr ""
+
+#: regions/AF.php:32
+msgid "Sar-e Pol"
+msgstr ""
+
+#: regions/SR.php:8
+msgid "Saramacca"
+msgstr ""
+
+#: regions/RU.php:68
+msgid "Saratov Oblast"
+msgstr ""
+
+#: regions/BT.php:16
+msgid "Sarpang"
+msgstr ""
+
+#: regions/CI.php:12
+msgid "Sassandra-Marahoué"
+msgstr ""
+
+#: regions/FI.php:20
+msgid "Satakunta"
+msgstr ""
+
+#: regions/WS.php:11
+msgid "Satupa'itea"
+msgstr ""
+
+#: regions/MG.php:13
+msgid "Sava"
+msgstr ""
+
+#: regions/CI.php:13 regions/TG.php:8
+msgid "Savanes"
+msgstr ""
+
+#: regions/AW.php:9
+msgid "Savaneta"
+msgstr ""
+
+#: regions/MU.php:14
+msgid "Savanne"
+msgstr ""
+
+#: regions/SI.php:8
+msgid "Savinjska"
+msgstr ""
+
+#: regions/GB.php:5
+msgid "Scotland"
+msgstr ""
+
+#: regions/KR.php:11
+msgid "Sejong"
+msgstr ""
+
+#: regions/MN.php:16
+msgid "Selenge"
+msgstr ""
+
+#: regions/ER.php:9
+msgid "Semenawi Keyih Bahri"
+msgstr ""
+
+#: regions/KR.php:4
+msgid "Seoul"
+msgstr ""
+
+#: regions/SM.php:12
+msgid "Serravalle"
+msgstr ""
+
+#: regions/PT.php:18
+msgid "Setúbal"
+msgstr ""
+
+#: regions/TN.php:12
+msgid "Sfax"
+msgstr ""
+
+#: regions/MM.php:11
+msgid "Shan"
+msgstr ""
+
+#: regions/AE.php:6
+msgid "Sharjah"
+msgstr ""
+
+#: regions/VU.php:7
+msgid "Shefa"
+msgstr ""
+
+#: regions/GE.php:14
+msgid "Shida Kartli"
+msgstr ""
+
+#: regions/AM.php:10
+msgid "Shirak"
+msgstr ""
+
+#: regions/AZ.php:8
+msgid "Shirvan"
+msgstr ""
+
+#: regions/SZ.php:7
+msgid "Shiselweni"
+msgstr ""
+
+#: regions/KZ.php:6
+msgid "Shymkent"
+msgstr ""
+
+#: regions/ET.php:12
+msgid "Sidama"
+msgstr ""
+
+#: regions/KH.php:21
+msgid "Siem Reap"
+msgstr ""
+
+#: regions/KH.php:22
+msgid "Sihanoukville"
+msgstr ""
+
+#: regions/ML.php:7
+msgid "Sikasso"
+msgstr ""
+
+#: regions/TD.php:22
+msgid "Sila"
+msgstr ""
+
+#. Author of the plugin
+msgid "Simon Sthormes"
+msgstr ""
+
+#: regions/SR.php:13
+msgid "Sipaliwini"
+msgstr ""
+
+#: regions/TT.php:16
+msgid "Siparia"
+msgstr ""
+
+#: regions/UZ.php:13
+msgid "Sirdaryo"
+msgstr ""
+
+#: regions/LY.php:7
+msgid "Sirte"
+msgstr ""
+
+#: regions/DK.php:7
+msgid "Sjælland"
+msgstr ""
+
+#: regions/MK.php:14
+msgid "Skopje"
+msgstr ""
+
+#: regions/SE.php:14
+msgid "Skåne"
+msgstr ""
+
+#: regions/BM.php:10
+msgid "Smith's"
+msgstr ""
+
+#: regions/RU.php:69
+msgid "Smolensk Oblast"
+msgstr ""
+
+#: regions/ET.php:14
+msgid "SNNPR"
+msgstr ""
+
+#: regions/VN.php:39
+msgid "Soc Trang"
+msgstr ""
+
+#: regions/ET.php:13
+msgid "Somali"
+msgstr ""
+
+#: regions/GB.php:31
+msgid "Somerset"
+msgstr ""
+
+#: regions/PW.php:19
+msgid "Sonsorol"
+msgstr ""
+
+#: regions/SO.php:19
+msgid "Sool"
+msgstr ""
+
+#: regions/CW.php:6
+msgid "Soto"
+msgstr ""
+
+#: regions/LC.php:13
+msgid "Soufrière"
+msgstr ""
+
+#: regions/TN.php:9
+msgid "Sousse"
+msgstr ""
+
+#: regions/LB.php:11 regions/IL.php:8
+msgid "South"
+msgstr ""
+
+#: regions/TC.php:7
+msgid "South Caicos"
+msgstr ""
+
+#: regions/MT.php:7
+msgid "South Eastern Region"
+msgstr ""
+
+#: regions/KP.php:6
+msgid "South Hamgyong"
+msgstr ""
+
+#: regions/KP.php:8
+msgid "South Hwanghae"
+msgstr ""
+
+#: regions/NC.php:4
+msgid "South Province"
+msgstr ""
+
+#: regions/KP.php:11
+msgid "South Pyongan"
+msgstr ""
+
+#: regions/BW.php:11
+msgid "South-East"
+msgstr ""
+
+#: regions/CM.php:8
+msgid "South-West"
+msgstr ""
+
+#: regions/BM.php:11
+msgid "Southampton"
+msgstr ""
+
+#: regions/BW.php:12 regions/BH.php:5 regions/SL.php:7 regions/RW.php:8
+msgid "Southern"
+msgstr ""
+
+#: regions/PG.php:19
+msgid "Southern Highlands"
+msgstr ""
+
+#: regions/MT.php:8
+msgid "Southern Region"
+msgstr ""
+
+#: regions/GG.php:6
+msgid "St Andrew"
+msgstr ""
+
+#: regions/JE.php:5
+msgid "St Brelade"
+msgstr ""
+
+#: regions/JE.php:6
+msgid "St Clement"
+msgstr ""
+
+#: regions/JE.php:7
+msgid "St Helier"
+msgstr ""
+
+#: regions/JE.php:8
+msgid "St John"
+msgstr ""
+
+#: regions/JE.php:9
+msgid "St Lawrence"
+msgstr ""
+
+#: regions/GG.php:7 regions/JE.php:10
+msgid "St Martin"
+msgstr ""
+
+#: regions/JE.php:11
+msgid "St Mary"
+msgstr ""
+
+#: regions/JE.php:12
+msgid "St Ouen"
+msgstr ""
+
+#: regions/JE.php:13
+msgid "St Peter"
+msgstr ""
+
+#: regions/GG.php:8
+msgid "St Peter Port"
+msgstr ""
+
+#: regions/GG.php:9
+msgid "St Pierre du Bois"
+msgstr ""
+
+#: regions/GG.php:10
+msgid "St Sampson"
+msgstr ""
+
+#: regions/GG.php:11 regions/JE.php:14
+msgid "St Saviour"
+msgstr ""
+
+#: regions/GB.php:32
+msgid "Staffordshire"
+msgstr ""
+
+#: regions/BZ.php:8
+msgid "Stann Creek"
+msgstr ""
+
+#: regions/RU.php:34
+msgid "Stavropol Krai"
+msgstr ""
+
+#: regions/AT.php:9
+msgid "Steiermark"
+msgstr ""
+
+#: regions/SE.php:15
+msgid "Stockholm"
+msgstr ""
+
+#: regions/FO.php:7
+msgid "Streymoy"
+msgstr ""
+
+#: regions/KH.php:23
+msgid "Stung Treng"
+msgstr ""
+
+#: regions/CZ.php:14
+msgid "Středočeský kraj"
+msgstr ""
+
+#: regions/HT.php:7 regions/CM.php:13
+msgid "Sud"
+msgstr ""
+
+#: regions/HT.php:12
+msgid "Sud-Est"
+msgstr ""
+
+#: regions/CD.php:19
+msgid "Sud-Kivu"
+msgstr ""
+
+#: regions/BF.php:16
+msgid "Sud-Ouest"
+msgstr ""
+
+#: regions/CD.php:12
+msgid "Sud-Ubangi"
+msgstr ""
+
+#: regions/GB.php:33
+msgid "Suffolk"
+msgstr ""
+
+#: regions/TJ.php:7
+msgid "Sughd"
+msgstr ""
+
+#: regions/IQ.php:10
+msgid "Sulaymaniyah"
+msgstr ""
+
+#: regions/AZ.php:6
+msgid "Sumqayit"
+msgstr ""
+
+#: regions/GB.php:34
+msgid "Surrey"
+msgstr ""
+
+#: regions/UZ.php:14
+msgid "Surxondaryo"
+msgstr ""
+
+#: regions/IS.php:11
+msgid "Suðurland"
+msgstr ""
+
+#: regions/IS.php:5
+msgid "Suðurnes"
+msgstr ""
+
+#: regions/FO.php:8
+msgid "Suðuroy"
+msgstr ""
+
+#: regions/KH.php:24
+msgid "Svay Rieng"
+msgstr ""
+
+#: regions/RU.php:70
+msgid "Sverdlovsk Oblast"
+msgstr ""
+
+#: regions/AS.php:7
+msgid "Swains Island"
+msgstr ""
+
+#: regions/ET.php:15
+msgid "SWEP"
+msgstr ""
+
+#: regions/DK.php:8
+msgid "Syddanmark"
+msgstr ""
+
+#: regions/AM.php:11
+msgid "Syunik"
+msgstr ""
+
+#: regions/CV.php:15
+msgid "São Domingos"
+msgstr ""
+
+#: regions/CV.php:16
+msgid "São Filipe"
+msgstr ""
+
+#: regions/CV.php:17
+msgid "São Nicolau"
+msgstr ""
+
+#: regions/CV.php:18
+msgid "São Vicente"
+msgstr ""
+
+#: regions/ML.php:8
+msgid "Ségou"
+msgstr ""
+
+#: regions/SE.php:16
+msgid "Södermanland"
+msgstr ""
+
+#: regions/MN.php:17
+msgid "Sükhbaatar"
+msgstr ""
+
+#: regions/SA.php:10
+msgid "Tabuk"
+msgstr ""
+
+#: regions/DJ.php:9
+msgid "Tadjourah"
+msgstr ""
+
+#: regions/VU.php:8
+msgid "Tafea"
+msgstr ""
+
+#: regions/JO.php:11
+msgid "Tafilah"
+msgstr ""
+
+#: regions/NE.php:9
+msgid "Tahoua"
+msgstr ""
+
+#: regions/TW.php:7
+msgid "Taichung City"
+msgstr ""
+
+#: regions/TW.php:8
+msgid "Tainan City"
+msgstr ""
+
+#: regions/TW.php:4
+msgid "Taipei City"
+msgstr ""
+
+#: regions/TW.php:16
+msgid "Taitung County"
+msgstr ""
+
+#: regions/YE.php:6
+msgid "Taiz"
+msgstr ""
+
+#: regions/SC.php:26
+msgid "Takamaka"
+msgstr ""
+
+#: regions/KH.php:25
+msgid "Takeo"
+msgstr ""
+
+#: regions/AF.php:33
+msgid "Takhar"
+msgstr ""
+
+#: regions/KG.php:11
+msgid "Talas"
+msgstr ""
+
+#: regions/NU.php:14
+msgid "Tamakautoga"
+msgstr ""
+
+#: regions/RU.php:71
+msgid "Tambov Oblast"
+msgstr ""
+
+#: regions/TD.php:23
+msgid "Tandjilé"
+msgstr ""
+
+#: regions/CD.php:24
+msgid "Tanganyika"
+msgstr ""
+
+#: regions/MM.php:17
+msgid "Tanintharyi"
+msgstr ""
+
+#: regions/TW.php:9
+msgid "Taoyuan City"
+msgstr ""
+
+#: regions/CV.php:19
+msgid "Tarrafal"
+msgstr ""
+
+#: regions/EE.php:15
+msgid "Tartumaa"
+msgstr ""
+
+#: regions/SY.php:13
+msgid "Tartus"
+msgstr ""
+
+#: regions/UZ.php:4
+msgid "Tashkent City"
+msgstr ""
+
+#: regions/UZ.php:15
+msgid "Tashkent Region"
+msgstr ""
+
+#: regions/TN.php:17
+msgid "Tataouine"
+msgstr ""
+
+#: regions/RU.php:24
+msgid "Tatarstan"
+msgstr ""
+
+#: regions/LT.php:10
+msgid "Tauragės apskritis"
+msgstr ""
+
+#: regions/AM.php:12
+msgid "Tavush"
+msgstr ""
+
+#: regions/VN.php:26
+msgid "Tay Ninh"
+msgstr ""
+
+#: regions/GE.php:15
+msgid "Tbilisi"
+msgstr ""
+
+#: regions/KH.php:28
+msgid "Tboung Khmum"
+msgstr ""
+
+#: regions/IL.php:9
+msgid "Tel Aviv"
+msgstr ""
+
+#: regions/LT.php:11
+msgid "Telšių apskritis"
+msgstr ""
+
+#: regions/BN.php:6
+msgid "Temburong"
+msgstr ""
+
+#: regions/SB.php:11
+msgid "Temotu"
+msgstr ""
+
+#: regions/CW.php:8
+msgid "Tera Kora"
+msgstr ""
+
+#: regions/LS.php:13
+msgid "Thaba-Tseka"
+msgstr ""
+
+#: regions/BT.php:17
+msgid "Thimphu"
+msgstr ""
+
+#: regions/VN.php:12
+msgid "Thua Thien Hue"
+msgstr ""
+
+#: regions/MW.php:30
+msgid "Thyolo"
+msgstr ""
+
+#: regions/TD.php:24
+msgid "Tibesti"
+msgstr ""
+
+#: regions/VN.php:31
+msgid "Tien Giang"
+msgstr ""
+
+#: regions/ET.php:16
+msgid "Tigray"
+msgstr ""
+
+#: regions/NE.php:10
+msgid "Tillabéri"
+msgstr ""
+
+#: regions/MP.php:7
+msgid "Tinian"
+msgstr ""
+
+#: regions/MR.php:15
+msgid "Tiris Zemmour"
+msgstr ""
+
+#: regions/AT.php:10
+msgid "Tirol"
+msgstr ""
+
+#: regions/ME.php:22
+msgid "Tivat"
+msgstr ""
+
+#: regions/PR.php:10
+msgid "Toa Baja"
+msgstr ""
+
+#: regions/MG.php:8
+msgid "Toamasina"
+msgstr ""
+
+#: regions/TT.php:18
+msgid "Tobago"
+msgstr ""
+
+#: regions/LY.php:9
+msgid "Tobruk"
+msgstr ""
+
+#: regions/SO.php:20
+msgid "Togdheer"
+msgstr ""
+
+#: regions/NU.php:15
+msgid "Toi"
+msgstr ""
+
+#: regions/BZ.php:9
+msgid "Toledo"
+msgstr ""
+
+#: regions/MG.php:9
+msgid "Toliara"
+msgstr ""
+
+#: regions/GW.php:12
+msgid "Tombali"
+msgstr ""
+
+#: regions/ML.php:10
+msgid "Tombouctou"
+msgstr ""
+
+#: regions/RU.php:72
+msgid "Tomsk Oblast"
+msgstr ""
+
+#: regions/TO.php:7
+msgid "Tongatapu"
+msgstr ""
+
+#: regions/VU.php:9
+msgid "Torba"
+msgstr ""
+
+#: regions/GG.php:12
+msgid "Torteval"
+msgstr ""
+
+#: regions/TN.php:18
+msgid "Tozeur"
+msgstr ""
+
+#: regions/VN.php:33
+msgid "Tra Vinh"
+msgstr ""
+
+#: regions/MR.php:14
+msgid "Trarza"
+msgstr ""
+
+#: regions/BT.php:18
+msgid "Trashigang"
+msgstr ""
+
+#: regions/BT.php:19
+msgid "Trashiyangtse"
+msgstr ""
+
+#: regions/SK.php:9
+msgid "Trenčiansky kraj"
+msgstr ""
+
+#: regions/LK.php:20
+msgid "Trincomalee"
+msgstr ""
+
+#: regions/JE.php:15
+msgid "Trinity"
+msgstr ""
+
+#: regions/LY.php:4
+msgid "Tripoli"
+msgstr ""
+
+#: regions/SK.php:10
+msgid "Trnavský kraj"
+msgstr ""
+
+#: regions/NO.php:10
+msgid "Troms og Finnmark"
+msgstr ""
+
+#: regions/BT.php:20
+msgid "Trongsa"
+msgstr ""
+
+#: regions/PR.php:12
+msgid "Trujillo Alto"
+msgstr ""
+
+#: regions/NO.php:11
+msgid "Trøndelag"
+msgstr ""
+
+#: regions/CD.php:17
+msgid "Tshopo"
+msgstr ""
+
+#: regions/CD.php:13
+msgid "Tshuapa"
+msgstr ""
+
+#: regions/BT.php:21
+msgid "Tsirang"
+msgstr ""
+
+#: regions/WS.php:12
+msgid "Tuamasaga"
+msgstr ""
+
+#: regions/PF.php:6
+msgid "Tuamotu-Gambier"
+msgstr ""
+
+#: regions/NU.php:16
+msgid "Tuapa"
+msgstr ""
+
+#: regions/PS.php:18
+msgid "Tubas"
+msgstr ""
+
+#: regions/RU.php:73
+msgid "Tula Oblast"
+msgstr ""
+
+#: regions/PS.php:19
+msgid "Tulkarm"
+msgstr ""
+
+#: regions/TT.php:17
+msgid "Tunapuna-Piarco"
+msgstr ""
+
+#: regions/TN.php:4
+msgid "Tunis"
+msgstr ""
+
+#: regions/KZ.php:19
+msgid "Turkistan"
+msgstr ""
+
+#: regions/BN.php:7
+msgid "Tutong"
+msgstr ""
+
+#: regions/RU.php:25
+msgid "Tuva"
+msgstr ""
+
+#: regions/RU.php:74
+msgid "Tver Oblast"
+msgstr ""
+
+#: regions/RU.php:75
+msgid "Tyumen Oblast"
+msgstr ""
+
+#: regions/MN.php:20
+msgid "Töv"
+msgstr ""
+
+#: regions/NR.php:16
+msgid "Uaboe"
+msgstr ""
+
+#: regions/RU.php:26
+msgid "Udmurtia"
+msgstr ""
+
+#: regions/MH.php:23
+msgid "Ujae"
+msgstr ""
+
+#: regions/MN.php:4
+msgid "Ulaanbaatar"
+msgstr ""
+
+#: regions/ME.php:23
+msgid "Ulcinj"
+msgstr ""
+
+#: regions/KR.php:10
+msgid "Ulsan"
+msgstr ""
+
+#: regions/RU.php:76
+msgid "Ulyanovsk Oblast"
+msgstr ""
+
+#: regions/AE.php:8
+msgid "Umm Al Quwain"
+msgstr ""
+
+#: regions/QA.php:10
+msgid "Umm Salal"
+msgstr ""
+
+#: regions/SS.php:10
+msgid "Unity"
+msgstr ""
+
+#: regions/GY.php:12
+msgid "Upper Demerara-Berbice"
+msgstr ""
+
+#: regions/SS.php:9
+msgid "Upper Nile"
+msgstr ""
+
+#: regions/GM.php:8
+msgid "Upper River"
+msgstr ""
+
+#: regions/GY.php:13
+msgid "Upper Takutu-Upper Essequibo"
+msgstr ""
+
+#: regions/SE.php:17
+msgid "Uppsala"
+msgstr ""
+
+#: regions/AF.php:34
+msgid "Urozgan"
+msgstr ""
+
+#: regions/LT.php:12
+msgid "Utenos apskritis"
+msgstr ""
+
+#: regions/MH.php:24
+msgid "Utirik"
+msgstr ""
+
+#: regions/NL.php:13
+msgid "Utrecht"
+msgstr ""
+
+#: regions/FI.php:21
+msgid "Uusimaa"
+msgstr ""
+
+#: regions/MN.php:18
+msgid "Uvs"
+msgstr ""
+
+#: regions/WS.php:13
+msgid "Va'a-o-Fonoti"
+msgstr ""
+
+#: regions/NU.php:17
+msgid "Vaiea"
+msgstr ""
+
+#: regions/WS.php:14
+msgid "Vaisigano"
+msgstr ""
+
+#: regions/CF.php:19
+msgid "Vakaga"
+msgstr ""
+
+#: regions/MG.php:12
+msgid "Vakinankaratra"
+msgstr ""
+
+#: regions/GG.php:13
+msgid "Vale"
+msgstr ""
+
+#: regions/EE.php:16
+msgid "Valgamaa"
+msgstr ""
+
+#: regions/CI.php:14
+msgid "Vallée du Bandama"
+msgstr ""
+
+#: regions/FI.php:22
+msgid "Varsinais-Suomi"
+msgstr ""
+
+#: regions/TO.php:8
+msgid "Vava'u"
+msgstr ""
+
+#: regions/LK.php:16
+msgid "Vavuniya"
+msgstr ""
+
+#: regions/AM.php:13
+msgid "Vayots Dzor"
+msgstr ""
+
+#: regions/LV.php:40
+msgid "Ventspils"
+msgstr ""
+
+#: regions/IS.php:7
+msgid "Vestfirðir"
+msgstr ""
+
+#: regions/NO.php:12
+msgid "Vestfold og Telemark"
+msgstr ""
+
+#: regions/NO.php:13
+msgid "Vestland"
+msgstr ""
+
+#: regions/IS.php:6
+msgid "Vesturland"
+msgstr ""
+
+#: regions/PT.php:19
+msgid "Viana do Castelo"
+msgstr ""
+
+#: regions/LU.php:14
+msgid "Vianden"
+msgstr ""
+
+#: regions/LC.php:14
+msgid "Vieux Fort"
+msgstr ""
+
+#: regions/NO.php:14
+msgid "Viken"
+msgstr ""
+
+#: regions/PT.php:20
+msgid "Vila Real"
+msgstr ""
+
+#: regions/EE.php:17
+msgid "Viljandimaa"
+msgstr ""
+
+#: regions/CU.php:10
+msgid "Villa Clara"
+msgstr ""
+
+#: regions/LT.php:13
+msgid "Vilniaus apskritis"
+msgstr ""
+
+#: regions/VN.php:34
+msgid "Vinh Long"
+msgstr ""
+
+#: regions/TL.php:16
+msgid "Viqueque"
+msgstr ""
+
+#: regions/PT.php:21
+msgid "Viseu"
+msgstr ""
+
+#: regions/BY.php:10
+msgid "Vitebsk Region"
+msgstr ""
+
+#: regions/BE.php:6
+msgid "Vlaams-Brabant"
+msgstr ""
+
+#: regions/RU.php:77
+msgid "Vladimir Oblast"
+msgstr ""
+
+#: regions/RU.php:78
+msgid "Volgograd Oblast"
+msgstr ""
+
+#: regions/RU.php:79
+msgid "Vologda Oblast"
+msgstr ""
+
+#: regions/AT.php:11
+msgid "Vorarlberg"
+msgstr ""
+
+#: regions/RU.php:80
+msgid "Voronezh Oblast"
+msgstr ""
+
+#: regions/CZ.php:16
+msgid "Vysočina"
+msgstr ""
+
+#: regions/FO.php:9
+msgid "Vágar"
+msgstr ""
+
+#: regions/SE.php:18
+msgid "Värmland"
+msgstr ""
+
+#: regions/SE.php:19
+msgid "Västerbotten"
+msgstr ""
+
+#: regions/SE.php:20
+msgid "Västernorrland"
+msgstr ""
+
+#: regions/SE.php:21
+msgid "Västmanland"
+msgstr ""
+
+#: regions/SE.php:22
+msgid "Västra Götaland"
+msgstr ""
+
+#: regions/EE.php:18
+msgid "Võrumaa"
+msgstr ""
+
+#: regions/TD.php:25
+msgid "Wadi Fira"
+msgstr ""
+
+#: regions/GB.php:6
+msgid "Wales"
+msgstr ""
+
+#: regions/BT.php:22
+msgid "Wangdue Phodrang"
+msgstr ""
+
+#: regions/SR.php:5
+msgid "Wanica"
+msgstr ""
+
+#: regions/AF.php:35
+msgid "Wardak"
+msgstr ""
+
+#: regions/PL.php:17
+msgid "Warmińsko-mazurskie"
+msgstr ""
+
+#: regions/SS.php:11
+msgid "Warrap"
+msgstr ""
+
+#: regions/BM.php:12
+msgid "Warwick"
+msgstr ""
+
+#: regions/GB.php:35
+msgid "Warwickshire"
+msgstr ""
+
+#: regions/IQ.php:12
+msgid "Wasit"
+msgstr ""
+
+#: regions/GQ.php:9
+msgid "Wele-Nzas"
+msgstr ""
+
+#: regions/KY.php:8
+msgid "West Bay"
+msgstr ""
+
+#: regions/GM.php:9
+msgid "West Coast"
+msgstr ""
+
+#: regions/KZ.php:20
+msgid "West Kazakhstan"
+msgstr ""
+
+#: regions/PG.php:20
+msgid "West New Britain"
+msgstr ""
+
+#: regions/GB.php:36
+msgid "West Sussex"
+msgstr ""
+
+#: regions/BE.php:12
+msgid "West-Vlaanderen"
+msgstr ""
+
+#: regions/SB.php:12 regions/RW.php:7 regions/PG.php:21 regions/FJ.php:7
+#: regions/AS.php:8
+msgid "Western"
+msgstr ""
+
+#: regions/SL.php:4
+msgid "Western Area"
+msgstr ""
+
+#: regions/SS.php:12
+msgid "Western Bahr el Ghazal"
+msgstr ""
+
+#: regions/SS.php:6
+msgid "Western Equatoria"
+msgstr ""
+
+#: regions/PG.php:22
+msgid "Western Highlands"
+msgstr ""
+
+#: regions/CW.php:10
+msgid "Westpunt"
+msgstr ""
+
+#: regions/SD.php:11
+msgid "White Nile"
+msgstr ""
+
+#: regions/PL.php:18
+msgid "Wielkopolskie"
+msgstr ""
+
+#: regions/AT.php:12
+msgid "Wien"
+msgstr ""
+
+#: regions/CW.php:4
+msgid "Willemstad"
+msgstr ""
+
+#: regions/LU.php:15
+msgid "Wiltz"
+msgstr ""
+
+#: regions/PF.php:4
+msgid "Windward Islands (Tahiti)"
+msgstr ""
+
+#: regions/GA.php:12
+msgid "Woleu-Ntem"
+msgstr ""
+
+#. Name of the plugin
+msgid "Enhanced Region Data for WooCommerce"
+msgstr ""
+
+#: regions/SO.php:21
+msgid "Woqooyi Galbeed"
+msgstr ""
+
+#: regions/GB.php:37
+msgid "Worcestershire"
+msgstr ""
+
+#: regions/CI.php:15
+msgid "Woroba"
+msgstr ""
+
+#: regions/MH.php:25
+msgid "Wotho"
+msgstr ""
+
+#: regions/MH.php:26
+msgid "Wotje"
+msgstr ""
+
+#: regions/UZ.php:16
+msgid "Xorazm"
+msgstr ""
+
+#: regions/CI.php:16
+msgid "Yamoussoukro"
+msgstr ""
+
+#: regions/MM.php:4
+msgid "Yangon"
+msgstr ""
+
+#: regions/FM.php:7
+msgid "Yap"
+msgstr ""
+
+#: regions/NR.php:17
+msgid "Yaren"
+msgstr ""
+
+#: regions/RU.php:81
+msgid "Yaroslavl Oblast"
+msgstr ""
+
+#: regions/AM.php:14
+msgid "Yerevan"
+msgstr ""
+
+#: regions/TW.php:10
+msgid "Yilan County"
+msgstr ""
+
+#: regions/TW.php:20
+msgid "Yunlin County"
+msgstr ""
+
+#: regions/RU.php:35
+msgid "Zabaykalsky Krai"
+msgstr ""
+
+#: regions/AF.php:36
+msgid "Zabul"
+msgstr ""
+
+#: regions/PL.php:19
+msgid "Zachodniopomorskie"
+msgstr ""
+
+#: regions/CI.php:17
+msgid "Zanzan"
+msgstr ""
+
+#: regions/JO.php:6
+msgid "Zarqa"
+msgstr ""
+
+#: regions/SI.php:11
+msgid "Zasavska"
+msgstr ""
+
+#: regions/MN.php:13
+msgid "Zavkhan"
+msgstr ""
+
+#: regions/NL.php:14
+msgid "Zeeland"
+msgstr ""
+
+#: regions/BT.php:23
+msgid "Zhemgang"
+msgstr ""
+
+#: regions/NE.php:11
+msgid "Zinder"
+msgstr ""
+
+#: regions/CZ.php:17
+msgid "Zlínský kraj"
+msgstr ""
+
+#: regions/MW.php:31
+msgid "Zomba"
+msgstr ""
+
+#: regions/NL.php:15
+msgid "Zuid-Holland"
+msgstr ""
+
+#: regions/ST.php:5
+msgid "Água Grande"
+msgstr ""
+
+#: regions/CD.php:9
+msgid "Équateur"
+msgstr ""
+
+#: regions/PT.php:10
+msgid "Évora"
+msgstr ""
+
+#: regions/FR.php:11
+msgid "Île-de-France"
+msgstr ""
+
+#: regions/MN.php:22
+msgid "Ömnögovi"
+msgstr ""
+
+#: regions/SE.php:23
+msgid "Örebro"
+msgstr ""
+
+#: regions/SE.php:24
+msgid "Östergötland"
+msgstr ""
+
+#: regions/MN.php:21
+msgid "Övörkhangai"
+msgstr ""
+
+#: regions/CZ.php:15
+msgid "Ústecký kraj"
+msgstr ""
+
+#: regions/LV.php:14
+msgid "Ādažu novads"
+msgstr ""
+
+#: regions/MK.php:15
+msgid "Čair"
+msgstr ""
+
+#: regions/MK.php:16
+msgid "Čaška"
+msgstr ""
+
+#: regions/MK.php:17
+msgid "Češinovo-Obleševo"
+msgstr ""
+
+#: regions/MK.php:18
+msgid "Čučer-Sandevo"
+msgstr ""
+
+#: regions/LV.php:33
+msgid "Ērgļu novads"
+msgstr ""
+
+#: regions/PL.php:8
+msgid "Łódzkie"
+msgstr ""
+
+#: regions/PL.php:15
+msgid "Śląskie"
+msgstr ""
+
+#: regions/PL.php:16
+msgid "Świętokrzyskie"
+msgstr ""
+
+#: regions/ME.php:21
+msgid "Šavnik"
+msgstr ""
+
+#: regions/LT.php:9
+msgid "Šiaulių apskritis"
+msgstr ""
+
+#: regions/ME.php:24
+msgid "Žabljak"
+msgstr ""
+
+#: regions/SK.php:11
+msgid "Žilinský kraj"
+msgstr ""
