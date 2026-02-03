@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'MH-ALK' => __('Ailuk', 'enhanced-region-data'),
+  'MH-ALL' => __('Ailinglaplap', 'enhanced-region-data'),
+  'MH-ARN' => __('Arno', 'enhanced-region-data'),
+  'MH-AUR' => __('Aur', 'enhanced-region-data'),
+  'MH-EBN' => __('Ebon', 'enhanced-region-data'),
+  'MH-ENE' => __('Enewetak', 'enhanced-region-data'),
+  'MH-JAL' => __('Jaluit', 'enhanced-region-data'),
+  'MH-KIL' => __('Kili', 'enhanced-region-data'),
+  'MH-KWA' => __('Kwajalein', 'enhanced-region-data'),
+  'MH-LAE' => __('Lae', 'enhanced-region-data'),
+  'MH-LIB' => __('Lib', 'enhanced-region-data'),
+  'MH-LIK' => __('Likiep', 'enhanced-region-data'),
+  'MH-MAJ' => __('Majuro', 'enhanced-region-data'),
+  'MH-MAL' => __('Maloelap', 'enhanced-region-data'),
+  'MH-MEJ' => __('Mejit', 'enhanced-region-data'),
+  'MH-MIL' => __('Mili', 'enhanced-region-data'),
+  'MH-NAM' => __('Namorik', 'enhanced-region-data'),
+  'MH-NMU' => __('Namu', 'enhanced-region-data'),
+  'MH-RON' => __('Rongelap', 'enhanced-region-data'),
+  'MH-UJA' => __('Ujae', 'enhanced-region-data'),
+  'MH-UTI' => __('Utirik', 'enhanced-region-data'),
+  'MH-WTH' => __('Wotho', 'enhanced-region-data'),
+  'MH-WTJ' => __('Wotje', 'enhanced-region-data'),
+);

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'SE-K' => __('Blekinge', 'enhanced-region-data'),
+  'SE-W' => __('Dalarna', 'enhanced-region-data'),
+  'SE-I' => __('Gotland', 'enhanced-region-data'),
+  'SE-X' => __('Gävleborg', 'enhanced-region-data'),
+  'SE-N' => __('Halland', 'enhanced-region-data'),
+  'SE-Z' => __('Jämtland', 'enhanced-region-data'),
+  'SE-F' => __('Jönköping', 'enhanced-region-data'),
+  'SE-H' => __('Kalmar', 'enhanced-region-data'),
+  'SE-G' => __('Kronoberg', 'enhanced-region-data'),
+  'SE-BD' => __('Norrbotten', 'enhanced-region-data'),
+  'SE-M' => __('Skåne', 'enhanced-region-data'),
+  'SE-AB' => __('Stockholm', 'enhanced-region-data'),
+  'SE-D' => __('Södermanland', 'enhanced-region-data'),
+  'SE-C' => __('Uppsala', 'enhanced-region-data'),
+  'SE-S' => __('Värmland', 'enhanced-region-data'),
+  'SE-AC' => __('Västerbotten', 'enhanced-region-data'),
+  'SE-Y' => __('Västernorrland', 'enhanced-region-data'),
+  'SE-U' => __('Västmanland', 'enhanced-region-data'),
+  'SE-O' => __('Västra Götaland', 'enhanced-region-data'),
+  'SE-T' => __('Örebro', 'enhanced-region-data'),
+  'SE-E' => __('Östergötland', 'enhanced-region-data'),
+);

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'TD-NDJ' => __('N\'Djamena', 'enhanced-region-data'),
+  'TD-BA' => __('Batha', 'enhanced-region-data'),
+  'TD-LC' => __('Lac', 'enhanced-region-data'),
+  'TD-BG' => __('Bahr el Gazel', 'enhanced-region-data'),
+  'TD-BO' => __('Borkou', 'enhanced-region-data'),
+  'TD-EN' => __('Ennedi-Est', 'enhanced-region-data'),
+  'TD-EO' => __('Ennedi-Ouest', 'enhanced-region-data'),
+  'TD-GU' => __('Guéra', 'enhanced-region-data'),
+  'TD-HA' => __('Hadjer-Lamis', 'enhanced-region-data'),
+  'TD-KA' => __('Kanem', 'enhanced-region-data'),
+  'TD-LO' => __('Logone Occidental', 'enhanced-region-data'),
+  'TD-LR' => __('Logone Oriental', 'enhanced-region-data'),
+  'TD-MA' => __('Mandoul', 'enhanced-region-data'),
+  'TD-ME' => __('Mayo-Kebbi Est', 'enhanced-region-data'),
+  'TD-MO' => __('Mayo-Kebbi Ouest', 'enhanced-region-data'),
+  'TD-MC' => __('Moyen-Chari', 'enhanced-region-data'),
+  'TD-OD' => __('Ouaddaï', 'enhanced-region-data'),
+  'TD-SA' => __('Salamat', 'enhanced-region-data'),
+  'TD-SI' => __('Sila', 'enhanced-region-data'),
+  'TD-TA' => __('Tandjilé', 'enhanced-region-data'),
+  'TD-TI' => __('Tibesti', 'enhanced-region-data'),
+  'TD-WF' => __('Wadi Fira', 'enhanced-region-data'),
+  'TD-SD' => __('Salamat', 'enhanced-region-data'),
+);
